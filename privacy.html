@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SOCmonitor - Prywatność / Privacy</title>
+<link rel="stylesheet" href="assets/style.css">
+<style>
+  .doc { max-width: 720px; margin: 0 auto; padding: 20px 16px 40px; }
+  .doc h1 { font-size: 22px; margin: 8px 0 4px; }
+  .doc h2 { font-size: 16px; margin: 22px 0 6px; color: var(--accent); }
+  .doc p, .doc li { color: var(--text); }
+  .doc a { color: var(--accent); text-decoration: underline; }
+  [data-only] { display: none; }
+  html[lang="pl"] [data-only="pl"], html[lang="en"] [data-only="en"] { display: block; }
+</style>
+</head>
+<body>
+<header class="top">
+  <a class="brand" href="index.html"><span class="dot"></span><span>SOC<b>monitor</b></span></a>
+  <div class="meta">
+    <div class="lang" role="group" aria-label="Language">
+      <button data-lang="pl">PL</button>
+      <button data-lang="en">EN</button>
+    </div>
+  </div>
+</header>
+
+<main class="doc">
+  <div data-only="pl">
+    <h1>Prywatność i cookies</h1>
+    <p class="muted">Ostatnia aktualizacja: 23.11.2026</p>
+
+    <h2>Krótko</h2>
+    <p>Ta strona nie używa cookies, nie ma analityki, reklam ani żadnego śledzenia. Nie zbiera Twoich danych osobowych i nie ma formularzy.</p>
+
+    <h2>Co zapisuje się w Twojej przeglądarce</h2>
+    <p>Tylko wybrany język (PL lub EN), w pamięci lokalnej przeglądarki pod kluczem <code>socmonitor_lang</code>. Dodatkowo zapamiętujemy, że zamknąłeś informację o cookies (klucz <code>socmonitor_notice</code>). Te informacje zostają na Twoim urządzeniu, nigdzie nie są wysyłane i służą wyłącznie do zapamiętania Twoich wyborów. Możesz je usunąć w ustawieniach przeglądarki.</p>
+
+    <h2>Hosting</h2>
+    <p>Strona działa na GitHub Pages. GitHub jako dostawca hostingu może przetwarzać dane techniczne odwiedzających, np. adres IP, na własnych zasadach opisanych w <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement" target="_blank" rel="noopener noreferrer">GitHub Privacy Statement</a>. Autor strony nie prowadzi własnych logów odwiedzin.</p>
+
+    <h2>Linki zewnętrzne</h2>
+    <p>Strona pokazuje odnośniki do artykułów i baz danych (m.in. NVD, CISA, serwisy z newsami). Po kliknięciu opuszczasz tę stronę i obowiązują zasady danego serwisu.</p>
+
+    <h2>Źródła danych</h2>
+    <p>Treści pochodzą z publicznych źródeł: kanały RSS serwisów z newsami, NVD, CISA KEV i ransomware.live. Wyświetlane są tytuły, krótkie opisy i linki do oryginałów. Autorzy i prawa do treści należą do ich właścicieli.</p>
+
+    <h2>Autor strony</h2>
+    <p>Kamil Smotarski</p>
+  </div>
+
+  <div data-only="en">
+    <h1>Privacy and cookies</h1>
+    <p class="muted">Last updated: 23 Nov 2026</p>
+
+    <h2>In short</h2>
+    <p>This site does not use cookies, analytics, ads or any tracking. It does not collect personal data and has no forms.</p>
+
+    <h2>What is stored in your browser</h2>
+    <p>Only your chosen language (PL or EN), in the browser's local storage under the key <code>socmonitor_lang</code>. We also remember that you dismissed the cookie notice (key <code>socmonitor_notice</code>). These stay on your device, are never sent anywhere and are used only to remember your choices. You can delete them in your browser settings.</p>
+
+    <h2>Hosting</h2>
+    <p>The site runs on GitHub Pages. As the hosting provider, GitHub may process technical visitor data such as IP addresses under its own terms, described in the <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement" target="_blank" rel="noopener noreferrer">GitHub Privacy Statement</a>. The site author does not keep any visit logs.</p>
+
+    <h2>External links</h2>
+    <p>The site links to articles and databases (e.g. NVD, CISA, news sites). Once you click, you leave this site and the other site's rules apply.</p>
+
+    <h2>Data sources</h2>
+    <p>Content comes from public sources: news RSS feeds, NVD, CISA KEV and ransomware.live. The site shows titles, short descriptions and links to the originals. Rights to the content belong to their owners.</p>
+
+    <h2>Site author</h2>
+    <p>Kamil Smotarski</p>
+  </div>
+</main>
+
+<script src="assets/consent.js"></script>
+<script>
+(function () {
+  var lang = "pl";
+  try {
+    var s = localStorage.getItem("socmonitor_lang");
+    lang = s === "pl" || s === "en" ? s : ((navigator.language || "pl").toLowerCase().indexOf("pl") === 0 ? "pl" : "en");
+  } catch (e) {}
+  function apply() {
+    document.documentElement.lang = lang;
+    document.querySelectorAll("[data-lang]").forEach(function (b) {
+      b.classList.toggle("on", b.getAttribute("data-lang") === lang);
+    });
+  }
+  document.querySelectorAll("[data-lang]").forEach(function (b) {
+    b.onclick = function () {
+      lang = b.getAttribute("data-lang");
+      try { localStorage.setItem("socmonitor_lang", lang); } catch (e) {}
+      apply();
+    };
+  });
+  apply();
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SOCmonitor</title>
+<meta name="description" content="Cybersecurity news, new CVEs and attacks in one place. Newsy, CVE i ataki w jednym miejscu.">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="top">
+  <div class="brand"><span class="dot"></span><span>SOC<b>monitor</b></span></div>
+  <div class="meta">
+    <span id="updated" class="muted"></span>
+    <div class="lang" role="group" aria-label="Language">
+      <button data-lang="pl">PL</button>
+      <button data-lang="en">EN</button>
+    </div>
+  </div>
+</header>
+
+<main>
+  <section class="stats" id="stats"></section>
+  <div id="banner" class="banner" hidden></div>
+
+  <nav class="tabs" id="tabs"></nav>
+
+  <section id="panel-news" class="panel">
+    <div class="toolbar" id="news-tools"></div>
+    <div id="news" class="list"></div>
+  </section>
+
+  <section id="panel-cves" class="panel" hidden>
+    <div class="toolbar" id="cve-tools"></div>
+    <div id="cves" class="list"></div>
+  </section>
+
+  <section id="panel-kev" class="panel" hidden>
+    <p class="muted" data-i18n="kev_desc"></p>
+    <div id="kev" class="list"></div>
+  </section>
+
+  <section id="panel-ransomware" class="panel" hidden>
+    <p class="muted" data-i18n="ransom_desc"></p>
+    <div id="ransomware" class="list"></div>
+  </section>
+</main>
+
+<footer class="muted"><span id="footer"></span> <a href="privacy.html" id="priv-link" style="text-decoration:underline"></a></footer>
+<script src="assets/app.js"></script>
+<script src="assets/consent.js"></script>
+</body>
+</html>
