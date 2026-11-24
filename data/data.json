@@ -1,6 +1,86 @@
 {
  "news": [
   {
+   "title": "Rackspace shuts down Spot cloud platform after security breach",
+   "link": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/",
+   "summary": "Rackspace is shutting down its Rackspace Spot cloud platform after a security breach allowed hackers to access customer Kubernetes clusters and secrets, giving customers until December 8 to migrate their services and download their data. [...]",
+   "date": "2026-11-24T21:37:30+00:00",
+   "source": "BleepingComputer",
+   "lang": "en"
+  },
+  {
+   "title": "New Inception extortion gang launches large-scale vishing campaign",
+   "link": "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/",
+   "summary": "A newly formed data extortion group named 'Inception' has been linked to a large-scale campaign that targets single sign-on (SSO) credentials of multiple global brands and firms. [...]",
+   "date": "2026-11-24T20:21:20+00:00",
+   "source": "BleepingComputer",
+   "lang": "en"
+  },
+  {
+   "title": "Turnitin discloses cyberattack affecting customer-facing systems",
+   "link": "https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/",
+   "summary": "Turnitin disclosed via a statement from its CEO, Chris Caren, that it recently detected unauthorized activity involving certain customer-facing systems. [...]",
+   "date": "2026-11-24T18:59:52+00:00",
+   "source": "BleepingComputer",
+   "lang": "en"
+  },
+  {
+   "title": "Radware discloses breach exposing customer cloud access keys",
+   "link": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/",
+   "summary": "Cybersecurity company Radware says attackers gained access to some of its customers' account details and cloud access keys through an unsecured internal Cloud WAF (Web Application Firewall) management API that was left exposed online. [...]",
+   "date": "2026-11-24T17:49:05+00:00",
+   "source": "BleepingComputer",
+   "lang": "en"
+  },
+  {
+   "title": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
+   "link": "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html",
+   "summary": "A previously undocumented Iran-aligned cyber espionage group called Volant Manticore has targeted telecommunications companies, airlines, and critical infrastructure in Cyprus. Central to the group's operations is a backdoor called KuboShell that uses the Int...",
+   "date": "2026-11-24T16:54:07+00:00",
+   "source": "The Hacker News",
+   "lang": "en"
+  },
+  {
+   "title": "ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof",
+   "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/",
+   "summary": "The ShinyHunters extortion gang claims to have returned in posts on a new data leak site after a series of arrests over the past two months targeting alleged members. [...]",
+   "date": "2026-11-24T16:30:19+00:00",
+   "source": "BleepingComputer",
+   "lang": "en"
+  },
+  {
+   "title": "European Commission confirms data theft in EU Academy breach",
+   "link": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/",
+   "summary": "The European Commission, the European Union's main executive body, has confirmed that attackers breached its EU Academy online learning hub and stole the personal data of an undisclosed number of users. [...]",
+   "date": "2026-11-24T16:22:44+00:00",
+   "source": "BleepingComputer",
+   "lang": "en"
+  },
+  {
+   "title": "Hackers compromise Check Point Servers in 22 organizations",
+   "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/",
+   "summary": "Threat actors have exploited multiple vulnerabilities to compromise two dozen Check Point Security management servers in an ongoing campaign targeting 22 organizations. [...]",
+   "date": "2026-11-24T16:15:23+00:00",
+   "source": "BleepingComputer",
+   "lang": "en"
+  },
+  {
+   "title": "Police disrupt 57 illegal streaming services with 7.3 million visits",
+   "link": "https://www.bleepingcomputer.com/news/security/police-disrupt-57-illegal-streaming-services-with-73-million-visits/",
+   "summary": "Law enforcement authorities from 11 countries have disrupted 57 illegal streaming services that operated hundreds of websites and drew over 7.3 million visits each year. [...]",
+   "date": "2026-11-24T15:10:10+00:00",
+   "source": "BleepingComputer",
+   "lang": "en"
+  },
+  {
+   "title": "From Vulnerability Noise to Resilience: Rethinking Security in the AI Era",
+   "link": "https://www.bleepingcomputer.com/news/security/from-vulnerability-noise-to-resilience-rethinking-security-in-the-ai-era/",
+   "summary": "AI-driven development is adding complexity to software supply chains, leaving security teams overwhelmed by vulnerabilities that may pose little actual risk. RapidFort explains how runtime visibility, container hardening, and automated remediation can reduce...",
+   "date": "2026-11-24T15:01:11+00:00",
+   "source": "BleepingComputer",
+   "lang": "en"
+  },
+  {
    "title": "McDonald's Japan data breach exposes customer location information",
    "link": "https://www.bleepingcomputer.com/news/security/mcdonalds-japan-data-breach-exposes-customer-location-information/",
    "summary": "McDonald's Japan, the fast-food giant's Japanese subsidiary, has disclosed a data breach after attackers accessed a database containing sensitive information for users of the company's official smartphone app. [...]",
@@ -113,30 +193,6 @@
    "lang": "en"
   },
   {
-   "title": "OpenRouter drops AI providers over leaked prompts and secrets",
-   "link": "https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/",
-   "summary": "OpenRouter removed three AI providers from its platform after discovering that they had violated their stated data-handling policies and exposed sensitive data. [...]",
-   "date": "2026-11-23T20:00:20+00:00",
-   "source": "BleepingComputer",
-   "lang": "en"
-  },
-  {
-   "title": "Microsoft Azure flaw exploited to steal customers' API credentials",
-   "link": "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/",
-   "summary": "Microsoft is warning customers that a security vulnerability in Azure API Management (APIM) Classic tiers was exploited to steal stored API credentials, with Norwegian authorities linking the flaw to cyberattacks against energy companies. [...]",
-   "date": "2026-11-23T19:42:20+00:00",
-   "source": "BleepingComputer",
-   "lang": "en"
-  },
-  {
-   "title": "Spanish LaLiga confirms hackers stole soccer fans’ personal data",
-   "link": "https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/",
-   "summary": "LaLiga, Spain's top men's football league, disclosed a data breach that exposed personal information belonging to users of its services and those of some affiliated clubs. [...]",
-   "date": "2026-11-23T18:38:40+00:00",
-   "source": "BleepingComputer",
-   "lang": "en"
-  },
-  {
    "title": "Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access",
    "link": "https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html",
    "summary": "The China-aligned threat actor known as Webworm is suspected to be using a custom version of the open-source SoftEther VPN Bridge tool in an attempt to remove recognizable detection fingerprints, while disguising it as network-monitoring software to establish...",
@@ -145,42 +201,10 @@
    "lang": "en"
   },
   {
-   "title": "GlobeTopper loses $2.5 million after hackers steal $70k in gift cards",
-   "link": "https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards/",
-   "summary": "A cyberattack disrupted operations at B2B top-up solutions provider GlobeTopper, causing an estimated $2.5 million in lost revenue, while the attacker redeemed digital gift cards worth $70,000. [...]",
-   "date": "2026-11-23T16:50:01+00:00",
-   "source": "BleepingComputer",
-   "lang": "en"
-  },
-  {
    "title": "⚡ Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble",
    "link": "https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html",
    "summary": "A stolen key. A trusted message. A routine update. None of these looks like the start of a major security problem. That's partly why they work. Attackers don't always need to break down a door. Sometimes they just use one that's already open. This week's stor...",
    "date": "2026-11-23T15:10:48+00:00",
-   "source": "The Hacker News",
-   "lang": "en"
-  },
-  {
-   "title": "AI Agents Are Creating a Shared Responsibility Gap",
-   "link": "https://www.bleepingcomputer.com/news/security/ai-agents-are-creating-a-shared-responsibility-gap/",
-   "summary": "AI agents operate across multiple platforms, creating security gaps when no single vendor can see or control their actions. Token Security examines the shared responsibility problem and explains how organizations can better manage agent identities, permission...",
-   "date": "2026-11-23T15:00:10+00:00",
-   "source": "BleepingComputer",
-   "lang": "en"
-  },
-  {
-   "title": "Microsoft testing fix for Windows 11 Bluetooth audio quality drops",
-   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-fix-for-windows-11-bluetooth-audio-quality-drops/",
-   "summary": "Microsoft is working to fix a long-standing Windows issue that has been causing significant audio quality drops for Bluetooth headphone users. [...]",
-   "date": "2026-11-23T13:28:45+00:00",
-   "source": "BleepingComputer",
-   "lang": "en"
-  },
-  {
-   "title": "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions",
-   "link": "https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html",
-   "summary": "A critical security flaw has been disclosed in the popular binary-parser library that could allow an attacker who controls parser definitions to execute arbitrary code. The vulnerability, tracked as CVE-2026-134814 (CVSS score: 9.2 / 8.1), is a case of code i...",
-   "date": "2026-11-23T13:22:20+00:00",
    "source": "The Hacker News",
    "lang": "en"
   },
@@ -199,30 +223,6 @@
    "date": "2026-11-23T12:06:20+00:00",
    "source": "Sekurak",
    "lang": "pl"
-  },
-  {
-   "title": "Call center operator gets 8 years for helping scam 30,000 Americans",
-   "link": "https://www.bleepingcomputer.com/news/security/call-center-operator-gets-8-years-for-helping-scam-30-000-americans/",
-   "summary": "A Peruvian call center operator was sentenced to eight years in prison for helping steal millions of dollars from over 30,000 Spanish-speaking US residents in a years-long government-impersonation fraud scheme. [...]",
-   "date": "2026-11-23T12:02:23+00:00",
-   "source": "BleepingComputer",
-   "lang": "en"
-  },
-  {
-   "title": "Microsoft confirms Windows printing issues affecting Forcepoint users",
-   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-printing-issues-after-kb5132043-windows-hotpatch/",
-   "summary": "Microsoft confirmed printing issues on systems running Forcepoint DLP software after installing the KB5132043 November 2026 Windows 11 hotpatch. [...]",
-   "date": "2026-11-23T09:11:15+00:00",
-   "source": "BleepingComputer",
-   "lang": "en"
-  },
-  {
-   "title": "CISA flags critical Cisco RCE flaw as actively exploited in attacks",
-   "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/",
-   "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers are now exploiting a recently patched critical Cisco Expressway vulnerability in the wild. [...]",
-   "date": "2026-11-23T07:44:19+00:00",
-   "source": "BleepingComputer",
-   "lang": "en"
   },
   {
    "title": "Badacze wysłali dwa miliony spreparowanych promptów do routerów AI, zawierających baity (tzw. kanarki zawierające poufne dane). Ktoś kradnie niektóre prompty…",
@@ -547,1607 +547,1637 @@
  ],
  "cves": [
   {
-   "id": "CVE-2026-77670",
-   "published": "2026-11-24T14:18:19+00:00",
-   "score": 6.9,
-   "severity": "MEDIUM",
-   "summary": "Improper access control of a file path in TXOne StellarProtect and Stellar Agent (Windows) allows a local attacker to write or overwrite arbitrary files with SYSTEM privileges. This issue affects StellarProtect: 3.3 and earlier; Stellar Agent (Windows): before 5.0.3056. *Note: Stellar Agent (Window...",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77670"
-  },
-  {
-   "id": "CVE-2026-77671",
-   "published": "2026-11-24T14:18:19+00:00",
-   "score": 6.9,
-   "severity": "MEDIUM",
-   "summary": "Unverified configuration export destination path in TXOne StellarProtect and Stellar Agent (Windows) allows a local attacker to export the product configuration to an arbitrary directory with SYSTEM privileges. This issue affects StellarProtect: 3.3 and earlier; Stellar Agent (Windows): before 5.0....",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77671"
-  },
-  {
-   "id": "CVE-2026-77672",
-   "published": "2026-11-24T14:18:19+00:00",
-   "score": 8.5,
-   "severity": "HIGH",
-   "summary": "Missing server-side authorization in the IPC interface of TXOne StellarProtect and Stellar Agent (Windows) allows a local attacker to issue privileged commands without credentials. This issue affects StellarProtect: 3.3 and earlier; Stellar Agent (Windows): before 5.0.3056. *Note: Stellar Agent (Wi...",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77672"
-  },
-  {
-   "id": "CVE-2026-77673",
-   "published": "2026-11-24T14:18:19+00:00",
-   "score": 5.1,
-   "severity": "MEDIUM",
-   "summary": "Server-Side Request Forgery in the SSO SAML configuration feature of the TXOne StellarOne web console allows an authenticated administrator to issue server-side requests to arbitrary destinations, including internal services. This issue affects StellarOne: before 5.0.3232.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77673"
-  },
-  {
-   "id": "CVE-2026-65154",
-   "published": "2026-11-24T14:18:18+00:00",
-   "score": 7.8,
-   "severity": "HIGH",
-   "summary": "NVIDIA Open GPU Kernel Module for Linux contains a vulnerability where a user may cause a use-after-free issue. A successful exploit of this vulnerability may lead to code execution, escalation of privileges, data tampering, denial of service, and information disclosure.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-65154"
-  },
-  {
-   "id": "CVE-2026-65155",
-   "published": "2026-11-24T14:18:18+00:00",
+   "id": "CVE-2026-136613",
+   "published": "2026-11-24T23:17:32+00:00",
    "score": 7.5,
    "severity": "HIGH",
-   "summary": "NVIDIA CUDA Video Codec SDK (CUVID) for Jetson Linux contains a vulnerability where an attacker may cause a loop with an unreachable exit condition. Successful exploitation may lead to denial of service.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-65155"
+   "summary": "GNU Inetutils FTP Client File Retrieval Command Injection Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of GNU Inetutils FTP Client. User interaction is required to exploit this vulnerability in that the target mu...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-136613"
   },
   {
-   "id": "CVE-2026-65156",
-   "published": "2026-11-24T14:18:18+00:00",
-   "score": 7.5,
-   "severity": "HIGH",
-   "summary": "NVIDIA CUDA Video Codec SDK for Jetson Linux contains a vulnerability where an attacker may cause an infinite loop. A successful exploit of this vulnerability may lead to denial of service.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-65156"
-  },
-  {
-   "id": "CVE-2026-65157",
-   "published": "2026-11-24T14:18:18+00:00",
-   "score": 7.5,
-   "severity": "HIGH",
-   "summary": "NVIDIA Video Codec SDK for Linux contains a vulnerability where a user may cause an out of bounds read. A successful exploit of this vulnerability may lead to denial of service.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-65157"
-  },
-  {
-   "id": "CVE-2026-65158",
-   "published": "2026-11-24T14:18:18+00:00",
-   "score": 7.5,
-   "severity": "HIGH",
-   "summary": "NVIDIA Video Codec SDK for Linux contains a vulnerability where a user may cause a NULL pointer dereference issue. A successful exploit of this vulnerability may lead to denial of service.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-65158"
-  },
-  {
-   "id": "CVE-2026-65159",
-   "published": "2026-11-24T14:18:18+00:00",
-   "score": 7.5,
-   "severity": "HIGH",
-   "summary": "NVIDIA Video Codec SDK for Linux contains a vulnerability where a user may cause an out-of-bounds write issue. A successful exploit of this vulnerability may lead to denial of service.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-65159"
-  },
-  {
-   "id": "CVE-2026-65175",
-   "published": "2026-11-24T14:18:18+00:00",
-   "score": 9.8,
-   "severity": "CRITICAL",
-   "summary": "NVIDIA AIStore contains a vulnerability in storage-target node-control authorization where an unauthenticated attacker could access administrative functions through a target's public interface. A successful exploit might lead to information disclosure, data tampering, or denial of service.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-65175"
-  },
-  {
-   "id": "CVE-2026-136152",
-   "published": "2026-11-24T14:18:17+00:00",
-   "score": 6.9,
-   "severity": "MEDIUM",
-   "summary": "Prevent Direct Access – Protect WordPress Files plugin before 2.8.9.2 contains an information disclosure vulnerability that allows unauthenticated attackers to obtain protected file names and paths by requesting the dynamically generated robots.txt file, which appends Disallow rules containing atta...",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-136152"
-  },
-  {
-   "id": "CVE-2026-65135",
-   "published": "2026-11-24T14:18:17+00:00",
-   "score": 9.8,
-   "severity": "CRITICAL",
-   "summary": "NVIDIA Video Codec SDK for Linux contains a vulnerability where a user may cause a heap-based buffer overflow issue. A successful exploit of this vulnerability may lead to code execution, data tampering, and denial of service.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-65135"
-  },
-  {
-   "id": "CVE-2026-65136",
-   "published": "2026-11-24T14:18:17+00:00",
-   "score": 8.8,
-   "severity": "HIGH",
-   "summary": "NVIDIA Jetson Linux for Linux contains a vulnerability where an attacker may cause an out of bounds write. A successful exploit of this vulnerability may lead to escalation of privileges and denial of service.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-65136"
-  },
-  {
-   "id": "CVE-2026-65137",
-   "published": "2026-11-24T14:18:17+00:00",
-   "score": 7.1,
-   "severity": "HIGH",
-   "summary": "NVIDIA Jetson Linux for Linux contains a vulnerability where a local attacker may cause a NULL pointer dereference issue. A successful exploit of this vulnerability may lead to denial of service and data tampering.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-65137"
-  },
-  {
-   "id": "CVE-2026-135608",
-   "published": "2026-11-24T14:18:16+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Frame poisoning in the Layout component. This vulnerability was fixed in Firefox 161 and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135608"
-  },
-  {
-   "id": "CVE-2026-135609",
-   "published": "2026-11-24T14:18:16+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Frame poisoning in the DOM: Core & HTML component. This vulnerability was fixed in Firefox 161 and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135609"
-  },
-  {
-   "id": "CVE-2026-135610",
-   "published": "2026-11-24T14:18:16+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Invalid pointer in the Audio/Video: Playback component. This vulnerability was fixed in Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135610"
-  },
-  {
-   "id": "CVE-2026-135611",
-   "published": "2026-11-24T14:18:16+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Privilege escalation in the Internationalization component. This vulnerability was fixed in Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135611"
-  },
-  {
-   "id": "CVE-2026-135612",
-   "published": "2026-11-24T14:18:16+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Privilege escalation in the Messaging System component. This vulnerability was fixed in Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135612"
-  },
-  {
-   "id": "CVE-2026-135613",
-   "published": "2026-11-24T14:18:16+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Mitigation bypass in the WebExtensions component. This vulnerability was fixed in Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135613"
-  },
-  {
-   "id": "CVE-2026-135599",
-   "published": "2026-11-24T14:18:15+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Sandbox escape due to use-after-free in the Widget: Gtk component. This vulnerability was fixed in Firefox 161.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135599"
-  },
-  {
-   "id": "CVE-2026-135600",
-   "published": "2026-11-24T14:18:15+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Use-after-free in the JavaScript Engine component. This vulnerability was fixed in Firefox 161.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135600"
-  },
-  {
-   "id": "CVE-2026-135601",
-   "published": "2026-11-24T14:18:15+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Other issue in the Enterprise Policies component. This vulnerability was fixed in Firefox 161 and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135601"
-  },
-  {
-   "id": "CVE-2026-135602",
-   "published": "2026-11-24T14:18:15+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Other issue in the Audio/Video: GMP component. This vulnerability was fixed in Firefox 161.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135602"
-  },
-  {
-   "id": "CVE-2026-135603",
-   "published": "2026-11-24T14:18:15+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Other issue in the Internationalization component. This vulnerability was fixed in Firefox 161 and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135603"
-  },
-  {
-   "id": "CVE-2026-135604",
-   "published": "2026-11-24T14:18:15+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Spoofing issue in the Site Identity component. This vulnerability was fixed in Firefox 161 and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135604"
-  },
-  {
-   "id": "CVE-2026-135605",
-   "published": "2026-11-24T14:18:15+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Mitigation bypass in the Enterprise Policies component. This vulnerability was fixed in Firefox 161 and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135605"
-  },
-  {
-   "id": "CVE-2026-135606",
-   "published": "2026-11-24T14:18:15+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Cryptographic issue in the Security: PSM component. This vulnerability was fixed in Firefox 161 and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135606"
-  },
-  {
-   "id": "CVE-2026-135607",
-   "published": "2026-11-24T14:18:15+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Other issue in the Graphics: WebGPU component. This vulnerability was fixed in Firefox 161.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135607"
-  },
-  {
-   "id": "CVE-2026-135590",
-   "published": "2026-11-24T14:18:14+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Use-after-free in the Storage: Cache API component. This vulnerability was fixed in Firefox 161 and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135590"
-  },
-  {
-   "id": "CVE-2026-135591",
-   "published": "2026-11-24T14:18:14+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Incorrect boundary conditions in the Widget: Gtk component. This vulnerability was fixed in Firefox 161.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135591"
-  },
-  {
-   "id": "CVE-2026-135592",
-   "published": "2026-11-24T14:18:14+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Spoofing issue in the Site Permissions component. This vulnerability was fixed in Firefox 161 and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135592"
-  },
-  {
-   "id": "CVE-2026-135593",
-   "published": "2026-11-24T14:18:14+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Incorrect boundary conditions in the Widget component. This vulnerability was fixed in Firefox 161.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135593"
-  },
-  {
-   "id": "CVE-2026-135594",
-   "published": "2026-11-24T14:18:14+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Spoofing issue in the WebExtensions component in Firefox for Android. This vulnerability was fixed in Firefox 161.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135594"
-  },
-  {
-   "id": "CVE-2026-135595",
-   "published": "2026-11-24T14:18:14+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Uninitialized memory in the Graphics: CanvasWebGL component. This vulnerability was fixed in Firefox 161 and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135595"
-  },
-  {
-   "id": "CVE-2026-135596",
-   "published": "2026-11-24T14:18:14+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Sandbox escape due to incorrect boundary conditions in the Graphics: WebRender component. This vulnerability was fixed in Firefox 161 and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135596"
-  },
-  {
-   "id": "CVE-2026-135597",
-   "published": "2026-11-24T14:18:14+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Sandbox escape due to use-after-free in the DOM: Navigation component. This vulnerability was fixed in Firefox 161 and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135597"
-  },
-  {
-   "id": "CVE-2026-135598",
-   "published": "2026-11-24T14:18:14+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Mitigation bypass in the Networking: HTTP component. This vulnerability was fixed in Firefox 161.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135598"
-  },
-  {
-   "id": "CVE-2026-135580",
-   "published": "2026-11-24T14:18:13+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Use-after-free in the JavaScript: WebAssembly component. This vulnerability was fixed in Firefox 161.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135580"
-  },
-  {
-   "id": "CVE-2026-135581",
-   "published": "2026-11-24T14:18:13+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Use-after-free in the Audio/Video: Playback component. This vulnerability was fixed in Firefox 161 and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135581"
-  },
-  {
-   "id": "CVE-2026-135582",
-   "published": "2026-11-24T14:18:13+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Sandbox escape due to use-after-free in the Networking: HTTP component. This vulnerability was fixed in Firefox 161.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135582"
-  },
-  {
-   "id": "CVE-2026-135583",
-   "published": "2026-11-24T14:18:13+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Use-after-free in the Networking: DNS component. This vulnerability was fixed in Firefox 161.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135583"
-  },
-  {
-   "id": "CVE-2026-135584",
-   "published": "2026-11-24T14:18:13+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Race condition in the Graphics component. This vulnerability was fixed in Firefox 161 and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135584"
-  },
-  {
-   "id": "CVE-2026-135585",
-   "published": "2026-11-24T14:18:13+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Use-after-free in the Layout: Scrolling and Overflow component. This vulnerability was fixed in Firefox 161 and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135585"
-  },
-  {
-   "id": "CVE-2026-135586",
-   "published": "2026-11-24T14:18:13+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Side-channel in the Networking: HTTP component. This vulnerability was fixed in Firefox 161.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135586"
-  },
-  {
-   "id": "CVE-2026-135587",
-   "published": "2026-11-24T14:18:13+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Information disclosure in the DOM: Security component. This vulnerability was fixed in Firefox 161 and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135587"
-  },
-  {
-   "id": "CVE-2026-135588",
-   "published": "2026-11-24T14:18:13+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Use-after-free in the DOM: UI Events & Focus Handling component. This vulnerability was fixed in Firefox 161 and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135588"
-  },
-  {
-   "id": "CVE-2026-135589",
-   "published": "2026-11-24T14:18:13+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Race condition in the WebExtensions component in Firefox for Android. This vulnerability was fixed in Firefox 161.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135589"
-  },
-  {
-   "id": "CVE-2026-135572",
-   "published": "2026-11-24T14:18:12+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Information disclosure in the DOM: File component. This vulnerability was fixed in Firefox 161 and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135572"
-  },
-  {
-   "id": "CVE-2026-135573",
-   "published": "2026-11-24T14:18:12+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Mitigation bypass in the DOM: Security component. This vulnerability was fixed in Firefox 161 and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135573"
-  },
-  {
-   "id": "CVE-2026-135574",
-   "published": "2026-11-24T14:18:12+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Incorrect boundary conditions in the JavaScript Engine component. This vulnerability was fixed in Firefox 161.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135574"
-  },
-  {
-   "id": "CVE-2026-135575",
-   "published": "2026-11-24T14:18:12+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Use-after-free in the Cycle Collector component. This vulnerability was fixed in Firefox 161.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135575"
-  },
-  {
-   "id": "CVE-2026-135576",
-   "published": "2026-11-24T14:18:12+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Sandbox escape in the Marionette component. This vulnerability was fixed in Firefox 161.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135576"
-  },
-  {
-   "id": "CVE-2026-135577",
-   "published": "2026-11-24T14:18:12+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Site isolation issue in the PDF Viewer component. This vulnerability was fixed in Firefox 161.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135577"
-  },
-  {
-   "id": "CVE-2026-135578",
-   "published": "2026-11-24T14:18:12+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Sandbox escape due to use-after-free in the Machine Learning: On Device component. This vulnerability was fixed in Firefox 161.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135578"
-  },
-  {
-   "id": "CVE-2026-135579",
-   "published": "2026-11-24T14:18:12+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Privilege escalation due to incorrect boundary conditions in the Graphics component. This vulnerability was fixed in Firefox 161 and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135579"
-  },
-  {
-   "id": "CVE-2026-135562",
-   "published": "2026-11-24T14:18:11+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Site isolation issue in the Networking: Cookies component. This vulnerability was fixed in Firefox 161 and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135562"
-  },
-  {
-   "id": "CVE-2026-135563",
-   "published": "2026-11-24T14:18:11+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Site isolation issue in the Audio/Video component. This vulnerability was fixed in Firefox 161 and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135563"
-  },
-  {
-   "id": "CVE-2026-135564",
-   "published": "2026-11-24T14:18:11+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Mitigation bypass in the Machine Learning: Frontend component. This vulnerability was fixed in Firefox 161.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135564"
-  },
-  {
-   "id": "CVE-2026-135565",
-   "published": "2026-11-24T14:18:11+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Use-after-free in the Graphics component. This vulnerability was fixed in Firefox 161 and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135565"
-  },
-  {
-   "id": "CVE-2026-135566",
-   "published": "2026-11-24T14:18:11+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Use-after-free in the JavaScript Engine: JIT component. This vulnerability was fixed in Firefox 161.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135566"
-  },
-  {
-   "id": "CVE-2026-135567",
-   "published": "2026-11-24T14:18:11+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Incorrect boundary conditions in the Networking: HTTP component. This vulnerability was fixed in Firefox 161 and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135567"
-  },
-  {
-   "id": "CVE-2026-135568",
-   "published": "2026-11-24T14:18:11+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Use-after-free in the Graphics: CanvasWebGL component. This vulnerability was fixed in Firefox 161 and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135568"
-  },
-  {
-   "id": "CVE-2026-135569",
-   "published": "2026-11-24T14:18:11+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Site isolation issue in the PDF Viewer component. This vulnerability was fixed in Firefox 161.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135569"
-  },
-  {
-   "id": "CVE-2026-135570",
-   "published": "2026-11-24T14:18:11+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Use-after-free in the DOM: Workers component. This vulnerability was fixed in Firefox 161 and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135570"
-  },
-  {
-   "id": "CVE-2026-135571",
-   "published": "2026-11-24T14:18:11+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Sandbox escape due to use-after-free in the Panning and Zooming component. This vulnerability was fixed in Firefox 161 and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135571"
-  },
-  {
-   "id": "CVE-2026-135553",
-   "published": "2026-11-24T14:18:10+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Use-after-free in the DOM: Core & HTML component. This vulnerability was fixed in Firefox 161, Firefox ESR 115.46, and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135553"
-  },
-  {
-   "id": "CVE-2026-135554",
-   "published": "2026-11-24T14:18:10+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Use-after-free in the DOM: Navigation component. This vulnerability was fixed in Firefox 161, Firefox ESR 115.46, and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135554"
-  },
-  {
-   "id": "CVE-2026-135555",
-   "published": "2026-11-24T14:18:10+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Use-after-free in the XML component. This vulnerability was fixed in Firefox 161, Firefox ESR 115.46, and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135555"
-  },
-  {
-   "id": "CVE-2026-135556",
-   "published": "2026-11-24T14:18:10+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Invalid pointer in the JavaScript Engine: JIT component. This vulnerability was fixed in Firefox 161, Firefox ESR 115.46, and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135556"
-  },
-  {
-   "id": "CVE-2026-135557",
-   "published": "2026-11-24T14:18:10+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Use-after-free in the JavaScript Engine component. This vulnerability was fixed in Firefox 161, Firefox ESR 115.46, and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135557"
-  },
-  {
-   "id": "CVE-2026-135558",
-   "published": "2026-11-24T14:18:10+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Uninitialized memory in the Graphics: Text component. This vulnerability was fixed in Firefox 161, Firefox ESR 115.46, and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135558"
-  },
-  {
-   "id": "CVE-2026-135559",
-   "published": "2026-11-24T14:18:10+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Spoofing issue in the Address Bar component. This vulnerability was fixed in Firefox 161.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135559"
-  },
-  {
-   "id": "CVE-2026-135560",
-   "published": "2026-11-24T14:18:10+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Use-after-free in the Gecko Profiler component. This vulnerability was fixed in Firefox 161, Firefox ESR 115.46, and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135560"
-  },
-  {
-   "id": "CVE-2026-135561",
-   "published": "2026-11-24T14:18:10+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Spoofing issue in the Downloads component in Firefox for Android. This vulnerability was fixed in Firefox 161.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135561"
-  },
-  {
-   "id": "CVE-2026-135547",
-   "published": "2026-11-24T14:18:09+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Sandbox escape due to incorrect boundary conditions in the DOM: Networking component. This vulnerability was fixed in Firefox 161, Firefox ESR 115.46, and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135547"
-  },
-  {
-   "id": "CVE-2026-135548",
-   "published": "2026-11-24T14:18:09+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Use-after-free in the Layout component. This vulnerability was fixed in Firefox 161, Firefox ESR 115.46, and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135548"
-  },
-  {
-   "id": "CVE-2026-135549",
-   "published": "2026-11-24T14:18:09+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Use-after-free in the XSLT component. This vulnerability was fixed in Firefox 161, Firefox ESR 115.46, and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135549"
-  },
-  {
-   "id": "CVE-2026-135550",
-   "published": "2026-11-24T14:18:09+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Invalid pointer in the Audio/Video: Web Codecs component. This vulnerability was fixed in Firefox 161 and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135550"
-  },
-  {
-   "id": "CVE-2026-135551",
-   "published": "2026-11-24T14:18:09+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Use-after-free in the Layout component. This vulnerability was fixed in Firefox 161 and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135551"
-  },
-  {
-   "id": "CVE-2026-135552",
-   "published": "2026-11-24T14:18:09+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Use-after-free in the Graphics: Canvas2D component. This vulnerability was fixed in Firefox 161, Firefox ESR 115.46, and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135552"
-  },
-  {
-   "id": "CVE-2026-135538",
-   "published": "2026-11-24T14:18:08+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Use-after-free in the Graphics: ImageLib component. This vulnerability was fixed in Firefox 161, Firefox ESR 115.46, and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135538"
-  },
-  {
-   "id": "CVE-2026-135539",
-   "published": "2026-11-24T14:18:08+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Use-after-free in the DOM: CSS Object Model component. This vulnerability was fixed in Firefox 161, Firefox ESR 115.46, and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135539"
-  },
-  {
-   "id": "CVE-2026-135540",
-   "published": "2026-11-24T14:18:08+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Incorrect boundary conditions in the JavaScript Engine: JIT component. This vulnerability was fixed in Firefox 161, Firefox ESR 115.46, and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135540"
-  },
-  {
-   "id": "CVE-2026-135541",
-   "published": "2026-11-24T14:18:08+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Use-after-free in the XSLT component. This vulnerability was fixed in Firefox 161, Firefox ESR 115.46, and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135541"
-  },
-  {
-   "id": "CVE-2026-135542",
-   "published": "2026-11-24T14:18:08+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Incorrect boundary conditions in the Layout: Text and Fonts component. This vulnerability was fixed in Firefox 161, Firefox ESR 115.46, and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135542"
-  },
-  {
-   "id": "CVE-2026-135543",
-   "published": "2026-11-24T14:18:08+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Invalid pointer in the Networking component. This vulnerability was fixed in Firefox 161, Firefox ESR 115.46, and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135543"
-  },
-  {
-   "id": "CVE-2026-135544",
-   "published": "2026-11-24T14:18:08+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Invalid pointer in the DOM: Navigation component. This vulnerability was fixed in Firefox 161, Firefox ESR 115.46, and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135544"
-  },
-  {
-   "id": "CVE-2026-135545",
-   "published": "2026-11-24T14:18:08+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Invalid pointer in the DOM: Editor component. This vulnerability was fixed in Firefox 161 and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135545"
-  },
-  {
-   "id": "CVE-2026-135546",
-   "published": "2026-11-24T14:18:08+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Privilege escalation due to incorrect boundary conditions in the Layout: Text and Fonts component. This vulnerability was fixed in Firefox 161, Firefox ESR 115.46, and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135546"
-  },
-  {
-   "id": "CVE-2026-135528",
-   "published": "2026-11-24T14:18:07+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Race condition in the Networking: HTTP component. This vulnerability was fixed in Firefox 161 and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135528"
-  },
-  {
-   "id": "CVE-2026-135529",
-   "published": "2026-11-24T14:18:07+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Sandbox escape in the Graphics: Text component. This vulnerability was fixed in Firefox 161 and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135529"
-  },
-  {
-   "id": "CVE-2026-135530",
-   "published": "2026-11-24T14:18:07+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Sandbox escape due to incorrect boundary conditions in the Networking: HTTP component. This vulnerability was fixed in Firefox 161, Firefox ESR 115.46, and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135530"
-  },
-  {
-   "id": "CVE-2026-135531",
-   "published": "2026-11-24T14:18:07+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Privilege escalation due to use-after-free in the Networking: Cache component. This vulnerability was fixed in Firefox 161, Firefox ESR 115.46, and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135531"
-  },
-  {
-   "id": "CVE-2026-135532",
-   "published": "2026-11-24T14:18:07+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Use-after-free in the Networking component. This vulnerability was fixed in Firefox 161 and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135532"
-  },
-  {
-   "id": "CVE-2026-135533",
-   "published": "2026-11-24T14:18:07+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Incorrect boundary conditions in the Layout: Tables component. This vulnerability was fixed in Firefox 161, Firefox ESR 115.46, and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135533"
-  },
-  {
-   "id": "CVE-2026-135534",
-   "published": "2026-11-24T14:18:07+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Use-after-free in the DOM: Core & HTML component. This vulnerability was fixed in Firefox 161, Firefox ESR 115.46, and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135534"
-  },
-  {
-   "id": "CVE-2026-135535",
-   "published": "2026-11-24T14:18:07+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Incorrect boundary conditions in the Graphics: Skia component. This vulnerability was fixed in Firefox 161, Firefox ESR 115.46, and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135535"
-  },
-  {
-   "id": "CVE-2026-135536",
-   "published": "2026-11-24T14:18:07+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Uninitialized memory in the DOM: Editor component. This vulnerability was fixed in Firefox 161, Firefox ESR 115.46, and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135536"
-  },
-  {
-   "id": "CVE-2026-135537",
-   "published": "2026-11-24T14:18:07+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Incorrect boundary conditions in the Layout: Text and Fonts component. This vulnerability was fixed in Firefox 161, Firefox ESR 115.46, and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135537"
-  },
-  {
-   "id": "CVE-2026-135519",
-   "published": "2026-11-24T14:18:06+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Sandbox escape due to use-after-free in the Networking component. This vulnerability was fixed in Firefox 161 and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135519"
-  },
-  {
-   "id": "CVE-2026-135520",
-   "published": "2026-11-24T14:18:06+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Sandbox escape in the Graphics: CanvasWebGL component. This vulnerability was fixed in Firefox 161, Firefox ESR 115.46, and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135520"
-  },
-  {
-   "id": "CVE-2026-135521",
-   "published": "2026-11-24T14:18:06+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Sandbox escape in the DOM: Navigation component. This vulnerability was fixed in Firefox 161, Firefox ESR 115.46, and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135521"
-  },
-  {
-   "id": "CVE-2026-135522",
-   "published": "2026-11-24T14:18:06+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Incorrect boundary conditions in the Audio/Video: Web Codecs component. This vulnerability was fixed in Firefox 161.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135522"
-  },
-  {
-   "id": "CVE-2026-135523",
-   "published": "2026-11-24T14:18:06+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Invalid pointer in the Layout: Generated Content, Lists, and Counters component. This vulnerability was fixed in Firefox 161.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135523"
-  },
-  {
-   "id": "CVE-2026-135524",
-   "published": "2026-11-24T14:18:06+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Use-after-free in the JavaScript Engine component. This vulnerability was fixed in Firefox 161 and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135524"
-  },
-  {
-   "id": "CVE-2026-135525",
-   "published": "2026-11-24T14:18:06+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Sandbox escape due to use-after-free in the Graphics: WebRender component. This vulnerability was fixed in Firefox 161, Firefox ESR 115.46, and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135525"
-  },
-  {
-   "id": "CVE-2026-135526",
-   "published": "2026-11-24T14:18:06+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Use-after-free in the DOM: Networking component. This vulnerability was fixed in Firefox 161, Firefox ESR 115.46, and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135526"
-  },
-  {
-   "id": "CVE-2026-135527",
-   "published": "2026-11-24T14:18:06+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Use-after-free in the DOM: Core & HTML component. This vulnerability was fixed in Firefox 161, Firefox ESR 115.46, and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135527"
-  },
-  {
-   "id": "CVE-2026-135510",
-   "published": "2026-11-24T14:18:05+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Sandbox escape in the Networking: HTTP component. This vulnerability was fixed in Firefox 161.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135510"
-  },
-  {
-   "id": "CVE-2026-135511",
-   "published": "2026-11-24T14:18:05+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Use-after-free in the DOM: Core & HTML component. This vulnerability was fixed in Firefox 161, Firefox ESR 115.46, and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135511"
-  },
-  {
-   "id": "CVE-2026-135512",
-   "published": "2026-11-24T14:18:05+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Use-after-free in the Cycle Collector component. This vulnerability was fixed in Firefox 161, Firefox ESR 115.46, and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135512"
-  },
-  {
-   "id": "CVE-2026-135513",
-   "published": "2026-11-24T14:18:05+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Sandbox escape due to use-after-free in the Networking: HTTP component. This vulnerability was fixed in Firefox 161.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135513"
-  },
-  {
-   "id": "CVE-2026-135514",
-   "published": "2026-11-24T14:18:05+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Use-after-free in the Cycle Collector component. This vulnerability was fixed in Firefox 161, Firefox ESR 115.46, and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135514"
-  },
-  {
-   "id": "CVE-2026-135515",
-   "published": "2026-11-24T14:18:05+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Incorrect boundary conditions in the Networking: Cache component. This vulnerability was fixed in Firefox 161, Firefox ESR 115.46, and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135515"
-  },
-  {
-   "id": "CVE-2026-135516",
-   "published": "2026-11-24T14:18:05+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Invalid pointer in the Graphics: WebGPU component. This vulnerability was fixed in Firefox 161 and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135516"
-  },
-  {
-   "id": "CVE-2026-135517",
-   "published": "2026-11-24T14:18:05+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Use-after-free in the Networking: Cache component. This vulnerability was fixed in Firefox 161, Firefox ESR 115.46, and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135517"
-  },
-  {
-   "id": "CVE-2026-135518",
-   "published": "2026-11-24T14:18:05+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Use-after-free in the DOM: Core & HTML component. This vulnerability was fixed in Firefox 161, Firefox ESR 115.46, and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135518"
-  },
-  {
-   "id": "CVE-2026-135501",
-   "published": "2026-11-24T14:18:04+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Sandbox escape due to use-after-free in the Audio/Video: cubeb component. This vulnerability was fixed in Firefox 161.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135501"
-  },
-  {
-   "id": "CVE-2026-135502",
-   "published": "2026-11-24T14:18:04+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Site isolation issue in the Graphics: WebRender component. This vulnerability was fixed in Firefox 161.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135502"
-  },
-  {
-   "id": "CVE-2026-135503",
-   "published": "2026-11-24T14:18:04+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Invalid pointer in the DOM: Networking component. This vulnerability was fixed in Firefox 161, Firefox ESR 115.46, and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135503"
-  },
-  {
-   "id": "CVE-2026-135504",
-   "published": "2026-11-24T14:18:04+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Privilege escalation due to use-after-free in the Graphics component. This vulnerability was fixed in Firefox 161, Firefox ESR 115.46, and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135504"
-  },
-  {
-   "id": "CVE-2026-135505",
-   "published": "2026-11-24T14:18:04+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Privilege escalation due to incorrect boundary conditions in the Audio/Video: Playback component. This vulnerability was fixed in Firefox 161, Firefox ESR 115.46, and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135505"
-  },
-  {
-   "id": "CVE-2026-135506",
-   "published": "2026-11-24T14:18:04+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Sandbox escape in the Graphics: Text component. This vulnerability was fixed in Firefox 161 and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135506"
-  },
-  {
-   "id": "CVE-2026-135507",
-   "published": "2026-11-24T14:18:04+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Use-after-free in the Disability Access APIs component. This vulnerability was fixed in Firefox 161, Firefox ESR 115.46, and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135507"
-  },
-  {
-   "id": "CVE-2026-135508",
-   "published": "2026-11-24T14:18:04+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Sandbox escape due to use-after-free in the Graphics component. This vulnerability was fixed in Firefox 161, Firefox ESR 115.46, and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135508"
-  },
-  {
-   "id": "CVE-2026-135509",
-   "published": "2026-11-24T14:18:04+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Sandbox escape due to use-after-free in the Graphics: WebRender component. This vulnerability was fixed in Firefox 161, Firefox ESR 115.46, and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135509"
-  },
-  {
-   "id": "CVE-2026-12401",
-   "published": "2026-11-24T14:18:03+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Rejected reason: This issue was not considered a security vulnerability.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-12401"
-  },
-  {
-   "id": "CVE-2026-12403",
-   "published": "2026-11-24T14:18:03+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Rejected reason: This issue was not considered a security vulnerability.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-12403"
-  },
-  {
-   "id": "CVE-2026-12420",
-   "published": "2026-11-24T14:18:03+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Rejected reason: This issue was not considered a security vulnerability.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-12420"
-  },
-  {
-   "id": "CVE-2026-130822",
-   "published": "2026-11-24T14:18:03+00:00",
-   "score": 7.5,
-   "severity": "HIGH",
-   "summary": "In Valkey before 7.2.16, 8.0.x before 8.0.13, 8.1.x before 8.1.12, 9.0.x before 9.0.8, 9.1.x before 9.1.4 and 9.2.0 release candidates, when client eviction is enabled (maxmemory-clients is not 0), an authenticated user who can write to a key that other clients are blocked on (for example with BLPO...",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-130822"
-  },
-  {
-   "id": "CVE-2026-135500",
-   "published": "2026-11-24T14:18:03+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Privilege escalation due to integer overflow in the Graphics: WebGPU component. This vulnerability was fixed in Firefox 161 and Firefox ESR 153.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135500"
-  },
-  {
-   "id": "CVE-2026-120299",
-   "published": "2026-11-24T14:18:02+00:00",
-   "score": 2.1,
-   "severity": "LOW",
-   "summary": "Improper Input Validation vulnerability in ash-project ash allows an attacker to bypass the input validation of the field types of a :keyword attribute or argument. Ash.Type.Keyword.cast_input/2 in lib/ash/type/keyword.ex converts a map input to a keyword list in try_map_to_keyword/2, which casts e...",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-120299"
-  },
-  {
-   "id": "CVE-2026-129514",
-   "published": "2026-11-24T14:18:02+00:00",
-   "score": 10.0,
-   "severity": "CRITICAL",
-   "summary": "Deserialization of Untrusted Data vulnerability in the application/vnd.hex+erlang request body parser in hexpm hexpm allows an unauthenticated remote attacker to execute operating system commands via a crafted Erlang external term format request body. This vulnerability was actively exploited again...",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-129514"
-  },
-  {
-   "id": "CVE-2026-100985",
-   "published": "2026-11-24T14:18:01+00:00",
-   "score": 8.1,
-   "severity": "HIGH",
-   "summary": "NVIDIA AIStore contains a vulnerability in object-copy destination validation where an unauthenticated attacker could use a crafted destination object name to write a file outside the configured storage location. A successful exploit might lead to code execution, denial of service, escalation of pr...",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-100985"
-  },
-  {
-   "id": "CVE-2026-100986",
-   "published": "2026-11-24T14:18:01+00:00",
-   "score": 8.1,
-   "severity": "HIGH",
-   "summary": "NVIDIA AIStore contains a vulnerability in append-operation handle validation where an unauthenticated attacker could cause data to be appended to a file outside the intended storage location. A successful exploit might lead to code execution, denial of service, escalation of privileges, informatio...",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-100986"
-  },
-  {
-   "id": "CVE-2026-100991",
-   "published": "2026-11-24T14:18:01+00:00",
-   "score": 6.8,
-   "severity": "MEDIUM",
-   "summary": "NVIDIA Jetson contains a vulnerability where an attacker may cause an OS command injection issue. A successful exploit of this vulnerability may lead to code execution, escalation of privilege, information disclosure, data tampering, and denial of service.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-100991"
-  },
-  {
-   "id": "CVE-2026-100965",
-   "published": "2026-11-24T14:18:00+00:00",
-   "score": 7.5,
-   "severity": "HIGH",
-   "summary": "NVIDIA Triton Inference Server for Linux contains a vulnerability where an attacker could cause an uncaught exception. A successful exploit of this vulnerability might lead to denial of service.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-100965"
-  },
-  {
-   "id": "CVE-2026-100969",
-   "published": "2026-11-24T14:18:00+00:00",
-   "score": 7.5,
-   "severity": "HIGH",
-   "summary": "NVIDIA Triton Inference Server for Linux contains a vulnerability where an attacker could cause a NULL pointer dereference. A successful exploit of this vulnerability might lead to denial of service.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-100969"
-  },
-  {
-   "id": "CVE-2026-81577",
-   "published": "2026-11-24T13:17:35+00:00",
-   "score": 6.5,
-   "severity": "MEDIUM",
-   "summary": "Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability in ITG Bilgisayar Teknolojileri Grubu Ltd. Şti. VSRM allows Path Traversal. This issue affects vSRM: from 14.08.1 before 14.08.3.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-81577"
-  },
-  {
-   "id": "CVE-2026-82216",
-   "published": "2026-11-24T13:17:35+00:00",
-   "score": 7.5,
-   "severity": "HIGH",
-   "summary": "Server-Side request forgery (SSRF) vulnerability in ITG Bilgisayar Teknolojileri Grubu Ltd. Şti. VSRM allows Server Side Request Forgery. This issue affects vSRM: from 14.08.1 before 14.08.3.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82216"
-  },
-  {
-   "id": "CVE-2026-62271",
-   "published": "2026-11-24T13:17:34+00:00",
-   "score": 2.1,
-   "severity": "LOW",
-   "summary": "Use of RSA Algorithm without OAEP vulnerability in ex-aws ex_aws_kms (ExAws.KMS module) causes callers who import external key material to wrap their secret KMS key material with the deprecated PKCS#1 v1.5 padding scheme by default. This vulnerability is associated with program file lib/ex_aws/kms....",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-62271"
-  },
-  {
-   "id": "CVE-2026-62270",
-   "published": "2026-11-24T13:17:33+00:00",
+   "id": "CVE-2026-136614",
+   "published": "2026-11-24T23:17:32+00:00",
    "score": 5.9,
    "severity": "MEDIUM",
-   "summary": "Improper Validation of Specified Type of Input in ExAws.Dynamo.Encoder.encode/2 in ex_aws_dynamo allows an attacker who controls map data passed into a DynamoDB call to choose the raw stored DynamoDB AttributeValue. The encode/2 function in lib/ex_aws/dynamo/encoder.ex has one clause per DynamoDB t...",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-62270"
+   "summary": "GNU Inetutils talkd Stack-based Buffer Overflow Denial-of-Service Vulnerability. This vulnerability allows remote attackers to create a denial-of-service condition on affected installations of GNU Inetutils. Authentication is not required to exploit this vulnerability. The specific flaw exists with...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-136614"
   },
   {
-   "id": "CVE-2026-136123",
-   "published": "2026-11-24T13:17:31+00:00",
+   "id": "CVE-2026-16668",
+   "published": "2026-11-24T23:17:32+00:00",
+   "score": 2.4,
+   "severity": "LOW",
+   "summary": "The vendored zcbor decoder's zcbor_any_skip() in boot/zcbor/src/zcbor_decode.c descends one C-stack frame per level of CBOR nesting. On a list or map it copies the decoder state (memcpy(&state_copy, state, sizeof(zcbor_state_t))) and recurses once per member, with no depth cap: the skip path does n...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-16668"
+  },
+  {
+   "id": "CVE-2026-66417",
+   "published": "2026-11-24T23:17:32+00:00",
+   "score": null,
+   "severity": null,
+   "summary": "Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-66417"
+  },
+  {
+   "id": "CVE-2026-132743",
+   "published": "2026-11-24T23:17:31+00:00",
+   "score": 5.3,
+   "severity": "MEDIUM",
+   "summary": "Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection') vulnerability in Wikimedia Foundation MediaWiki - WikiLambda Extension. This vulnerability is associated with program files includes/Special/SpecialPreviewAbstract.php.",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132743"
+  },
+  {
+   "id": "CVE-2026-133438",
+   "published": "2026-11-24T23:17:31+00:00",
+   "score": 8.3,
+   "severity": "HIGH",
+   "summary": "Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection') vulnerability in Wikimedia Foundation MediaWiki. This vulnerability is associated with program files includes/libs/Http/MultiHttpClient.php, includes/libs/Mime/MimeAnalyzer.php. This issue affects Med...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-133438"
+  },
+  {
+   "id": "CVE-2026-133458",
+   "published": "2026-11-24T23:17:31+00:00",
+   "score": 4.8,
+   "severity": "MEDIUM",
+   "summary": "AutoGPT is a workflow automation platform for creating, deploying, and managing continuous artificial intelligence agents. From versions 0.6.15 through 0.10.0, the value of a host-scoped credential header was exposed to other hosts via HTTP redirects. SendAuthenticatedWebRequestBlock attaches a hos...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-133458"
+  },
+  {
+   "id": "CVE-2026-133460",
+   "published": "2026-11-24T23:17:31+00:00",
    "score": 8.7,
    "severity": "HIGH",
-   "summary": "Friendica through 2026.05-1 contains an improper validation vulnerability in APContact::compactProfile() that allows remote actors to overwrite a local user's stored inbox and public key by declaring that user's profile URL as their actor id. Attackers can then sign ActivityPub activities that HTTP...",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-136123"
+   "summary": "AutoGPT is a workflow automation platform for creating, deploying, and managing continuous artificial intelligence agents. Prior to 0.11.0, public webhook endpoints woould buffer request bodies in full before verifying them. Anyone with network access to the API ccould exhaust the memory of platfor...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-133460"
   },
   {
-   "id": "CVE-2026-136124",
-   "published": "2026-11-24T13:17:31+00:00",
-   "score": 6.0,
+   "id": "CVE-2026-135818",
+   "published": "2026-11-24T23:17:31+00:00",
+   "score": 5.3,
    "severity": "MEDIUM",
-   "summary": "ffmate before 2.1.0 contains an argument injection vulnerability in wildcardReplacer that allows attackers to inject ffmpeg or script arguments via crafted file names. Attackers who can create files in a watchfolder can break out of quoting to add network inputs or output paths that overwrite files...",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-136124"
+   "summary": "A vulnerability was identified in Dispatcharr up to 0.32.0. Affected by this issue is the function get_permissions of the component VODLogoViewSet/M3UAccountViewSet. Such manipulation leads to incorrect authorization. The attack may be launched remotely. Upgrading to version 0.33.0 can resolve this...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135818"
   },
   {
-   "id": "CVE-2026-136126",
-   "published": "2026-11-24T13:17:31+00:00",
+   "id": "CVE-2026-136134",
+   "published": "2026-11-24T23:17:31+00:00",
+   "score": 5.5,
+   "severity": "MEDIUM",
+   "summary": "A flaw has been found in mealie-recipes Mealie up to 3.29.0. Affected is the function get of the file mealie/pkgs/i18n/provider_factory.py of the component I18n Locale Provider. Executing a manipulation of the argument Accept-Language can lead to path traversal. It is possible to launch the attack...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-136134"
+  },
+  {
+   "id": "CVE-2026-136135",
+   "published": "2026-11-24T23:17:31+00:00",
+   "score": 2.1,
+   "severity": "LOW",
+   "summary": "A vulnerability has been found in louislam uptime-kuma up to e7420f8fa546a8baa7ac4bf9d10a32545d4346e0. Affected by this vulnerability is the function disableAPIKey/enableAPIKey of the file server/socket-handlers/api-key-socket-handler.js of the component API Key Management. The manipulation leads t...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-136135"
+  },
+  {
+   "id": "CVE-2026-132736",
+   "published": "2026-11-24T23:17:30+00:00",
+   "score": 8.7,
+   "severity": "HIGH",
+   "summary": "Exposure of Sensitive Information to an Unauthorized Actor vulnerability in Wikimedia Foundation MediaWiki. This vulnerability is associated with program files includes/Rest/Handler.php, includes/Rest/Handler/ParsoidHandler.php, includes/Rest/Module/Module.php, includes/Rest/Validator/UnsupportedCo...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132736"
+  },
+  {
+   "id": "CVE-2026-132737",
+   "published": "2026-11-24T23:17:30+00:00",
+   "score": 4.6,
+   "severity": "MEDIUM",
+   "summary": "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Wikimedia Foundation MediaWiki - BetaFeatures Extension. This vulnerability is associated with program files includes/HTMLFeatureField.php. This issue affects MediaWiki - BetaFeatures Extension: 1....",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132737"
+  },
+  {
+   "id": "CVE-2026-132738",
+   "published": "2026-11-24T23:17:30+00:00",
+   "score": 6.9,
+   "severity": "MEDIUM",
+   "summary": "Uncontrolled Resource Consumption vulnerability in Wikimedia Foundation MediaWiki - CentralNotice Extension. This vulnerability is associated with program files includes/api/ApiCentralNoticeQueryCampaign.php. This issue affects MediaWiki - CentralNotice Extension: 1.43, 1.45, 1.46.",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132738"
+  },
+  {
+   "id": "CVE-2026-132739",
+   "published": "2026-11-24T23:17:30+00:00",
+   "score": 5.3,
+   "severity": "MEDIUM",
+   "summary": "Cross-Site Request Forgery (CSRF) vulnerability in Wikimedia Foundation MediaWiki - CentralNotice Extension. This vulnerability is associated with program files includes/specials/SpecialHideBanners.php. This issue affects MediaWiki - CentralNotice Extension: 1.43, 1.45, 1.46.",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132739"
+  },
+  {
+   "id": "CVE-2026-132740",
+   "published": "2026-11-24T23:17:30+00:00",
+   "score": 2.3,
+   "severity": "LOW",
+   "summary": "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Wikimedia Foundation MediaWiki - CentralNotice Extension. This issue affects MediaWiki - CentralNotice Extension: 1.43, 1.45, 1.46.",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132740"
+  },
+  {
+   "id": "CVE-2026-132741",
+   "published": "2026-11-24T23:17:30+00:00",
+   "score": 5.3,
+   "severity": "MEDIUM",
+   "summary": "Improper Access Control vulnerability in Wikimedia Foundation MediaWiki - WikiLambda Extension. This vulnerability is associated with program files extension.json, includes/HookHandler/PageEditingHandler.php, includes/HookHandler/RepoHooks.php.",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132741"
+  },
+  {
+   "id": "CVE-2026-132742",
+   "published": "2026-11-24T23:17:30+00:00",
+   "score": 6.9,
+   "severity": "MEDIUM",
+   "summary": "Acceptance of Extraneous Untrusted Data With Trusted Data vulnerability in Wikimedia Foundation MediaWiki - WikiLambda Extension. This vulnerability is associated with program files includes/AWStorage/AWFragment.php, includes/AWStorage/AWFragmentStore.php, includes/AWStorage/MainStashAWFragmentStor...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132742"
+  },
+  {
+   "id": "CVE-2026-132728",
+   "published": "2026-11-24T23:17:29+00:00",
+   "score": 5.1,
+   "severity": "MEDIUM",
+   "summary": "Exposure of Sensitive Information to an Unauthorized Actor vulnerability in Wikimedia Foundation MediaWiki - AbuseFilter Extension. This vulnerability is associated with program files includes/Special/SpecialAbuseFilter.php, includes/View/AbuseFilterViewTestBatch.php. This issue affects MediaWiki -...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132728"
+  },
+  {
+   "id": "CVE-2026-132729",
+   "published": "2026-11-24T23:17:29+00:00",
+   "score": 2.1,
+   "severity": "LOW",
+   "summary": "Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection') vulnerability in Wikimedia Foundation MediaWiki - Score Extension. This vulnerability is associated with program files includes/Score.php. This issue affects MediaWiki - Score Extension: 1.43, 1.45, 1...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132729"
+  },
+  {
+   "id": "CVE-2026-132730",
+   "published": "2026-11-24T23:17:29+00:00",
+   "score": 6.9,
+   "severity": "MEDIUM",
+   "summary": "Improper Access Control vulnerability in Wikimedia Foundation MediaWiki. This vulnerability is associated with program files includes/Specials/SpecialUserRights.php. This issue affects MediaWiki: from 1.43.0 before 1.43.12, from 1.45.0 before 1.45.7, from 1.46.0 before 1.46.3, 1.47.",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132730"
+  },
+  {
+   "id": "CVE-2026-132731",
+   "published": "2026-11-24T23:17:29+00:00",
+   "score": 4.6,
+   "severity": "MEDIUM",
+   "summary": "Missing Authorization vulnerability in Wikimedia Foundation MediaWiki - GuidedTour Extension. This vulnerability is associated with program files modules/ext.guidedTour.lib.internal.js. This issue affects MediaWiki - GuidedTour Extension: 1.45, 1.46, 1.47.",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132731"
+  },
+  {
+   "id": "CVE-2026-132732",
+   "published": "2026-11-24T23:17:29+00:00",
+   "score": 5.3,
+   "severity": "MEDIUM",
+   "summary": "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Wikimedia Foundation MediaWiki - Math Extension. This vulnerability is associated with program files extension.json, modules/ext.math.popup.js. This issue affects MediaWiki - Math Extension: 1.43,...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132732"
+  },
+  {
+   "id": "CVE-2026-132733",
+   "published": "2026-11-24T23:17:29+00:00",
+   "score": 5.1,
+   "severity": "MEDIUM",
+   "summary": "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Wikimedia Foundation MediaWiki - Math Extension. This vulnerability is associated with program files src/SpecialMathWikibase.php. This issue affects MediaWiki - Math Extension: 1.43, 1.45, 1.46, 1....",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132733"
+  },
+  {
+   "id": "CVE-2026-132734",
+   "published": "2026-11-24T23:17:29+00:00",
+   "score": 8.7,
+   "severity": "HIGH",
+   "summary": "Exposure of Sensitive Information to an Unauthorized Actor vulnerability in Wikimedia Foundation MediaWiki - ExternalData Extension. This vulnerability is associated with program files includes/connectors/EDConnectorDb.php, includes/connectors/EDConnectorLdap.php, includes/presets/Test.php, include...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132734"
+  },
+  {
+   "id": "CVE-2026-132735",
+   "published": "2026-11-24T23:17:29+00:00",
+   "score": 7.6,
+   "severity": "HIGH",
+   "summary": "Improper Access Control vulnerability in Wikimedia Foundation MediaWiki - OATHAuth Extension. This vulnerability is associated with program files src/Auth/ReauthPrimaryAuthenticationProvider.php, src/Auth/SecondaryAuthenticationProvider.php. This issue affects MediaWiki - OATHAuth Extension: 1.47.",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132735"
+  },
+  {
+   "id": "CVE-2026-132721",
+   "published": "2026-11-24T23:17:28+00:00",
+   "score": 6.9,
+   "severity": "MEDIUM",
+   "summary": "Exposure of Sensitive Information to an Unauthorized Actor vulnerability in Wikimedia Foundation MediaWiki - GrowthExperiments Extension. This vulnerability is associated with program files extension.json, includes/Api/ApiSetMentor.php, includes/MentorDashboard/MenteeOverview/StarredMenteesStore.ph...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132721"
+  },
+  {
+   "id": "CVE-2026-132722",
+   "published": "2026-11-24T23:17:28+00:00",
+   "score": 5.3,
+   "severity": "MEDIUM",
+   "summary": "Vulnerability in Wikimedia Foundation MediaWiki - GrowthExperiments Extension. This vulnerability is associated with program files includes/Mentorship/Provider/CommunityStructuredMentorProvider.php, includes/Specials/SpecialEnrollAsMentor.php. This issue affects MediaWiki - GrowthExperiments Extens...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132722"
+  },
+  {
+   "id": "CVE-2026-132723",
+   "published": "2026-11-24T23:17:28+00:00",
+   "score": 6.9,
+   "severity": "MEDIUM",
+   "summary": "Missing Authorization vulnerability in Wikimedia Foundation MediaWiki - GrowthExperiments Extension. This vulnerability is associated with program files includes/Api/ApiInvalidateImageRecommendation.php. This issue affects MediaWiki - GrowthExperiments Extension: 1.43, 1.45, 1.46, 1.47.",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132723"
+  },
+  {
+   "id": "CVE-2026-132724",
+   "published": "2026-11-24T23:17:28+00:00",
+   "score": 8.7,
+   "severity": "HIGH",
+   "summary": "Vulnerability in Wikimedia Foundation MediaWiki - EasyTimeline Extension. This vulnerability is associated with program files scripts/EasyTimeline.pl. This issue affects MediaWiki - EasyTimeline Extension: 1.43, 1.45, 1.46, 1.47.",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132724"
+  },
+  {
+   "id": "CVE-2026-132725",
+   "published": "2026-11-24T23:17:28+00:00",
+   "score": 5.1,
+   "severity": "MEDIUM",
+   "summary": "URL Redirection to Untrusted Site ('Open Redirect') vulnerability in Wikimedia Foundation MediaWiki - OAuth Extension. This vulnerability is associated with program files src/Frontend/SpecialPages/SpecialMWOAuth.php. This issue affects MediaWiki - OAuth Extension: 1.43, 1.45, 1.46, 1.47.",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132725"
+  },
+  {
+   "id": "CVE-2026-132726",
+   "published": "2026-11-24T23:17:28+00:00",
    "score": 9.2,
    "severity": "CRITICAL",
-   "summary": "c-icap-server through 0.5.15 and 0.6.5 contains an out-of-bounds write in process_encapsulated() that allows unauthenticated attackers to corrupt heap memory by sending six Encapsulated entities. Attackers can send a single ICAP request whose sixth entity overwrites trash_entities[0], triggering us...",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-136126"
+   "summary": "Deserialization of Untrusted Data vulnerability in Wikimedia Foundation MediaWiki - Echo Extension. This vulnerability is associated with program files includes/Model/Event.php. This issue affects MediaWiki - Echo Extension: from 1.43.0 before 1.43.12, from 1.45.0 before 1.45.7, from 1.46.0 before...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132726"
   },
   {
-   "id": "CVE-2026-136128",
-   "published": "2026-11-24T13:17:31+00:00",
-   "score": 8.5,
-   "severity": "HIGH",
-   "summary": "WPC Linked Variation plugin for WordPress, all versions before 4.6.1, contain a stored cross-site scripting vulnerability that allows authenticated attackers with Contributor-level access to inject arbitrary HTML attributes by submitting an unvalidated wpclv_link[source] value that is echoed into a...",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-136128"
-  },
-  {
-   "id": "CVE-2026-14569",
-   "published": "2026-11-24T13:17:31+00:00",
-   "score": 8.7,
-   "severity": "HIGH",
-   "summary": "Use of externally-controlled format string vulnerability exists in RTU500 component of the logging function for TLS, PPP and CAM. Exploiting this vulnerability may result in sensitive memory disclosure and denial of service.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-14569"
-  },
-  {
-   "id": "CVE-2026-135842",
-   "published": "2026-11-24T13:17:30+00:00",
+   "id": "CVE-2026-132727",
+   "published": "2026-11-24T23:17:28+00:00",
    "score": 5.3,
    "severity": "MEDIUM",
-   "summary": "Missing Authorization vulnerability in Themefic Ultra Addons for WPForms ultra-addons-for-wpforms allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects Ultra Addons for WPForms: from n/a through 1.1.2.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135842"
+   "summary": "Cross-Site Request Forgery (CSRF) vulnerability in Wikimedia Foundation MediaWiki - SecurePoll Extension. This vulnerability is associated with program files i18n/en.json, i18n/qqq.json, includes/Ballots/BallotStatus.php, includes/Pages/VotePage.php. This issue affects MediaWiki - SecurePoll Extens...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132727"
   },
   {
-   "id": "CVE-2026-135891",
-   "published": "2026-11-24T13:17:30+00:00",
-   "score": 6.5,
-   "severity": "MEDIUM",
-   "summary": "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Qode Interactive Qi Blocks qi-blocks allows Stored XSS.This issue affects Qi Blocks: from n/a through 1.5.4.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135891"
-  },
-  {
-   "id": "CVE-2026-136120",
-   "published": "2026-11-24T13:17:30+00:00",
-   "score": 8.6,
-   "severity": "HIGH",
-   "summary": "Ziit 1.3.2 contains a cross-site request forgery vulnerability in the /api/auth/epilogue/callback handler that accepts requests lacking the OAuth state parameter. Attackers can lure a signed-in victim to a cross-site page that completes the link flow with the attacker's Epilogue authorization code,...",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-136120"
-  },
-  {
-   "id": "CVE-2026-135023",
-   "published": "2026-11-24T13:17:28+00:00",
-   "score": 4.3,
-   "severity": "MEDIUM",
-   "summary": "Missing Authorization vulnerability in Themefic Tourfic tourfic allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects Tourfic: from n/a through 3.0.2.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135023"
-  },
-  {
-   "id": "CVE-2026-135026",
-   "published": "2026-11-24T13:17:28+00:00",
+   "id": "CVE-2026-132713",
+   "published": "2026-11-24T23:17:27+00:00",
    "score": 5.3,
    "severity": "MEDIUM",
-   "summary": "Missing Authorization vulnerability in Themefic Tourfic tourfic allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects Tourfic: from n/a through 3.0.2.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135026"
+   "summary": "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Wikimedia Foundation MediaWiki - VisualEditor Extension. This vulnerability is associated with program files extension.json, modules/ve-mw/dm/nodes/ve.dm.MWLanguageVariantNode.js, modules/ve-mw/ui/...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132713"
   },
   {
-   "id": "CVE-2026-135041",
-   "published": "2026-11-24T13:17:28+00:00",
-   "score": 5.3,
-   "severity": "MEDIUM",
-   "summary": "Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS) vulnerability in Themefic Hydra Booking hydra-booking allows Code Injection.This issue affects Hydra Booking: from n/a through 1.2.11.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135041"
-  },
-  {
-   "id": "CVE-2026-135043",
-   "published": "2026-11-24T13:17:28+00:00",
-   "score": 5.3,
-   "severity": "MEDIUM",
-   "summary": "Insertion of Sensitive Information Into Sent Data vulnerability in Themefic Hydra Booking hydra-booking allows Retrieve Embedded Sensitive Data.This issue affects Hydra Booking: from n/a through 1.2.11.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135043"
-  },
-  {
-   "id": "CVE-2026-135044",
-   "published": "2026-11-24T13:17:28+00:00",
-   "score": 5.3,
-   "severity": "MEDIUM",
-   "summary": "Missing Authorization vulnerability in Themefic Hydra Booking hydra-booking allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects Hydra Booking: from n/a through 1.2.11.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135044"
-  },
-  {
-   "id": "CVE-2026-134954",
-   "published": "2026-11-24T13:17:27+00:00",
-   "score": 5.3,
-   "severity": "MEDIUM",
-   "summary": "Missing Authorization vulnerability in StaxWP Visibility Logic for Elementor visibility-logic-elementor allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects Visibility Logic for Elementor: from n/a through 2.5.3.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-134954"
-  },
-  {
-   "id": "CVE-2026-134962",
-   "published": "2026-11-24T13:17:27+00:00",
-   "score": 7.1,
-   "severity": "HIGH",
-   "summary": "Missing Authorization vulnerability in Slim & Dapper Theater for WordPress theatre allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects Theater for WordPress: from n/a through 0.19.1.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-134962"
-  },
-  {
-   "id": "CVE-2026-134996",
-   "published": "2026-11-24T13:17:27+00:00",
-   "score": 6.5,
-   "severity": "MEDIUM",
-   "summary": "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in YITH YITH WooCommerce Wishlist yith-woocommerce-wishlist allows Stored XSS.This issue affects YITH WooCommerce Wishlist: from n/a through 4.20.0.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-134996"
-  },
-  {
-   "id": "CVE-2026-134998",
-   "published": "2026-11-24T13:17:27+00:00",
-   "score": 4.3,
-   "severity": "MEDIUM",
-   "summary": "Missing Authorization vulnerability in Themefic Ultimate Addons for Contact Form 7 ultimate-addons-for-contact-form-7 allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects Ultimate Addons for Contact Form 7: from n/a through 3.5.59.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-134998"
-  },
-  {
-   "id": "CVE-2026-135015",
-   "published": "2026-11-24T13:17:27+00:00",
-   "score": 6.5,
-   "severity": "MEDIUM",
-   "summary": "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Themefic BEAF beaf-before-and-after-gallery allows Stored XSS.This issue affects BEAF: from n/a through 4.7.22.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135015"
-  },
-  {
-   "id": "CVE-2026-135020",
-   "published": "2026-11-24T13:17:27+00:00",
-   "score": 5.3,
-   "severity": "MEDIUM",
-   "summary": "Missing Authorization vulnerability in Themefic Tourfic tourfic allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects Tourfic: from n/a through 3.0.2.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135020"
-  },
-  {
-   "id": "CVE-2026-135021",
-   "published": "2026-11-24T13:17:27+00:00",
-   "score": 5.3,
-   "severity": "MEDIUM",
-   "summary": "Missing Authorization vulnerability in Themefic Tourfic tourfic allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects Tourfic: from n/a through 3.0.2.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135021"
-  },
-  {
-   "id": "CVE-2026-134468",
-   "published": "2026-11-24T13:17:26+00:00",
-   "score": 4.3,
-   "severity": "MEDIUM",
-   "summary": "Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS) vulnerability in HivePress HivePress hivepress allows Code Injection.This issue affects HivePress: from n/a through 1.8.2.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-134468"
-  },
-  {
-   "id": "CVE-2026-134482",
-   "published": "2026-11-24T13:17:26+00:00",
-   "score": 5.3,
-   "severity": "MEDIUM",
-   "summary": "Missing Authorization vulnerability in VillaTheme Thank You Page Customizer for WooCommerce woo-thank-you-page-customizer allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects Thank You Page Customizer for WooCommerce: from n/a through 1.2.5.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-134482"
-  },
-  {
-   "id": "CVE-2026-134485",
-   "published": "2026-11-24T13:17:26+00:00",
-   "score": 5.3,
-   "severity": "MEDIUM",
-   "summary": "Missing Authorization vulnerability in Mamunur Rashid Radius Booking — Booking Calendar for Appointments & Services radius-booking allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects Radius Booking — Booking Calendar for Appointments & Services: from n/a throu...",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-134485"
-  },
-  {
-   "id": "CVE-2026-134707",
-   "published": "2026-11-24T13:17:26+00:00",
-   "score": 6.5,
-   "severity": "MEDIUM",
-   "summary": "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in WP Speedo Team Members wps-team allows Stored XSS.This issue affects Team Members: from n/a through 4.2.2.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-134707"
-  },
-  {
-   "id": "CVE-2026-134709",
-   "published": "2026-11-24T13:17:26+00:00",
-   "score": 5.3,
-   "severity": "MEDIUM",
-   "summary": "Missing Authorization vulnerability in Mamunur Rashid Radius Booking — Booking Calendar for Appointments & Services radius-booking allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects Radius Booking — Booking Calendar for Appointments & Services: from n/a throu...",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-134709"
-  },
-  {
-   "id": "CVE-2026-133769",
-   "published": "2026-11-24T13:17:25+00:00",
-   "score": 2.3,
-   "severity": "LOW",
-   "summary": "Cva::apply() converted the values of variants, default variants and compound variants with (array). These values come from the arguments of html_cva(). A sandboxed template could therefore pass any object of its context, and print the private and protected properties of that object: {{ html_cva('ba...",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-133769"
-  },
-  {
-   "id": "CVE-2026-133770",
-   "published": "2026-11-24T13:17:25+00:00",
-   "score": 2.1,
-   "severity": "LOW",
-   "summary": "The sandbox allows every method of Twig\\Markup objects, including their public constructor. A sandboxed template can therefore call __construct() on any Markup object that it reaches, and replace its content: {% do banner.__construct(' alert(1) ', 'UTF-8') %} A template gains nothing by rewriting i...",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-133770"
-  },
-  {
-   "id": "CVE-2026-133771",
-   "published": "2026-11-24T13:17:25+00:00",
-   "score": 2.3,
-   "severity": "LOW",
-   "summary": "The escaper considered x.attr, x['key'] and x.method() safe whenever {% import ... as x %} appeared anywhere in the template. Macro calls haven't needed this rule since Twig 3.0. It only matched ordinary variables that have the name of an alias imported in another block or macro, and printed them w...",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-133771"
-  },
-  {
-   "id": "CVE-2026-133772",
-   "published": "2026-11-24T13:17:25+00:00",
-   "score": 2.3,
-   "severity": "LOW",
-   "summary": "The guard tag compiles only one of its branches, depending on whether a callable exists. The other branch was still parsed, though. The extends, use, macro and block tags in it registered their effects on the template. The sandbox doesn't see these tags, since that branch isn't compiled. A sandboxe...",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-133772"
-  },
-  {
-   "id": "CVE-2026-133773",
-   "published": "2026-11-24T13:17:25+00:00",
-   "score": 2.3,
-   "severity": "LOW",
-   "summary": "The html_to_markdown filter of twig/markdown-extra keeps an HtmlConverter for each distinct mapping of options it receives. They're kept in a static array, with no size limit and no eviction. The options are an argument of the filter. A template that passes options taken from the input, or a sandbo...",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-133773"
-  },
-  {
-   "id": "CVE-2026-134125",
-   "published": "2026-11-24T13:17:25+00:00",
-   "score": 6.5,
-   "severity": "MEDIUM",
-   "summary": "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in hupe13 Extension for Leaflet Map extensions-leaflet-map allows Stored XSS.This issue affects Extension for Leaflet Map: from n/a through 6.1.3.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-134125"
-  },
-  {
-   "id": "CVE-2026-134467",
-   "published": "2026-11-24T13:17:25+00:00",
-   "score": 4.3,
-   "severity": "MEDIUM",
-   "summary": "Missing Authorization vulnerability in HivePress HivePress hivepress allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects HivePress: from n/a through 1.8.2.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-134467"
-  },
-  {
-   "id": "CVE-2026-133763",
-   "published": "2026-11-24T13:17:24+00:00",
-   "score": 5.3,
-   "severity": "MEDIUM",
-   "summary": "The sandbox checks that a template may call toString() on an object before converting it to a string. For an object, the is true test evaluates to the object itself, and that result wasn't checked. A sandboxed template could therefore print an object through a denied toString() method: {{ obj is tr...",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-133763"
-  },
-  {
-   "id": "CVE-2026-133764",
-   "published": "2026-11-24T13:17:24+00:00",
-   "score": 2.3,
-   "severity": "LOW",
-   "summary": "The sandbox checks that a template may call toString() on an object before converting it to a string. It didn't check the input of tests. The PHP callable of a test may convert this input to a string, for example when its parameter is typed as string. PHP then calls toString() on an object without...",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-133764"
-  },
-  {
-   "id": "CVE-2026-133765",
-   "published": "2026-11-24T13:17:24+00:00",
-   "score": 5.3,
-   "severity": "MEDIUM",
-   "summary": "The sandbox checks that a template may call toString() on an object before converting it to a string. Since Twig 3.23.0, assignments like x = obj, and the destructuring forms [a] = list and {a} = obj, evaluate to the value that they assign. The sandbox didn't check that value, so a sandboxed templa...",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-133765"
-  },
-  {
-   "id": "CVE-2026-133766",
-   "published": "2026-11-24T13:17:24+00:00",
-   "score": 2.3,
-   "severity": "LOW",
-   "summary": "Since Twig 3.28.0, the sandbox skips the toString() check of an argument whose PHP parameter can't hold a string, like an int. A spread argument was mapped to a single parameter, although it fills every parameter from its position on. A sandboxed template could therefore call a denied toString() me...",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-133766"
-  },
-  {
-   "id": "CVE-2026-133767",
-   "published": "2026-11-24T13:17:24+00:00",
-   "score": 5.3,
-   "severity": "MEDIUM",
-   "summary": "When the parent of an embed tag was an expression other than a string or a variable, the sandbox didn't see that expression. The functions, filters and tests of the expression weren't checked against the policy, and neither were its conversions to strings. A sandboxed template allowed to use embed...",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-133767"
-  },
-  {
-   "id": "CVE-2026-133768",
-   "published": "2026-11-24T13:17:24+00:00",
-   "score": 5.3,
-   "severity": "MEDIUM",
-   "summary": "The join filter converted a value that isn't iterable with (array) $value. For an object, that gives every property, including the private and protected ones. A sandboxed template allowed to use join could therefore print properties that the policy denies, and that templates can't read otherwise: {...",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-133768"
-  },
-  {
-   "id": "CVE-2026-127181",
-   "published": "2026-11-24T13:17:23+00:00",
-   "score": 7.6,
-   "severity": "HIGH",
-   "summary": "SUSE Neuvector before 5.5, 5.5.0 before 5.5.6 and 5.6.0 before 5.6.5 handling of ephemeral containers was not setting some checking callbacks, allowing these to bypass permission checks.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-127181"
-  },
-  {
-   "id": "CVE-2026-129058",
-   "published": "2026-11-24T13:17:23+00:00",
-   "score": 5.3,
-   "severity": "MEDIUM",
-   "summary": "Missing Authorization vulnerability in VillaTheme CURCY woo-multi-currency allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects CURCY: from n/a through 2.2.22.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-129058"
-  },
-  {
-   "id": "CVE-2026-131746",
-   "published": "2026-11-24T13:17:23+00:00",
-   "score": 5.3,
-   "severity": "MEDIUM",
-   "summary": "Missing Authorization vulnerability in VillaTheme Coupzy woo-coupon-box allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects Coupzy: from n/a through 2.1.14.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-131746"
-  },
-  {
-   "id": "CVE-2026-131747",
-   "published": "2026-11-24T13:17:23+00:00",
-   "score": 5.4,
-   "severity": "MEDIUM",
-   "summary": "Cross-Site Request Forgery (CSRF) vulnerability in Themeisle WP Full Stripe Free wp-full-stripe-free allows Cross Site Request Forgery.This issue affects WP Full Stripe Free: from n/a through 8.5.8.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-131747"
-  },
-  {
-   "id": "CVE-2026-131762",
-   "published": "2026-11-24T13:17:23+00:00",
-   "score": 4.3,
-   "severity": "MEDIUM",
-   "summary": "Cross-Site Request Forgery (CSRF) vulnerability in VeronaLabs WP Statistics wp-statistics allows Cross Site Request Forgery.This issue affects WP Statistics: from n/a through 14.16.19.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-131762"
-  },
-  {
-   "id": "CVE-2026-131779",
-   "published": "2026-11-24T13:17:23+00:00",
-   "score": 5.3,
-   "severity": "MEDIUM",
-   "summary": "Missing Authorization vulnerability in WP Desk Flexible Quantity – Measurement Price Calculator for WooCommerce flexible-quantity-measurement-price-calculator-for-woocommerce allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects Flexible Quantity – Measurement P...",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-131779"
-  },
-  {
-   "id": "CVE-2026-124268",
-   "published": "2026-11-24T13:17:22+00:00",
-   "score": 4.3,
-   "severity": "MEDIUM",
-   "summary": "Missing Authorization vulnerability in Arraytics WP Event Solution wp-event-solution allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects WP Event Solution: from n/a through 4.1.30.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-124268"
-  },
-  {
-   "id": "CVE-2026-124273",
-   "published": "2026-11-24T13:17:22+00:00",
-   "score": 6.5,
-   "severity": "MEDIUM",
-   "summary": "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Arraytics WP Event Solution wp-event-solution allows Stored XSS.This issue affects WP Event Solution: from n/a through 4.1.30.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-124273"
-  },
-  {
-   "id": "CVE-2026-124754",
-   "published": "2026-11-24T13:17:22+00:00",
+   "id": "CVE-2026-132714",
+   "published": "2026-11-24T23:17:27+00:00",
    "score": 6.9,
    "severity": "MEDIUM",
-   "summary": "RTU500 has a NULL pointer dereference vulnerability through the NCMD metric name present in the Sparkplug payload of the MQTT message received, resulting in Denial of Service.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-124754"
+   "summary": "Exposure of Sensitive Information to an Unauthorized Actor vulnerability in Wikimedia Foundation MediaWiki. This vulnerability is associated with program files includes/Api/ApiBlock.php, includes/Api/ApiUnblock.php, includes/ParamValidator/TypeDef/UserDef.php. This issue affects MediaWiki: from 1.4...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132714"
   },
   {
-   "id": "CVE-2026-125441",
-   "published": "2026-11-24T13:17:22+00:00",
+   "id": "CVE-2026-132715",
+   "published": "2026-11-24T23:17:27+00:00",
+   "score": 4.8,
+   "severity": "MEDIUM",
+   "summary": "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Wikimedia Foundation MediaWiki - VisualEditor Extension. This vulnerability is associated with program files includes/SpecialEditChecks.php. This issue affects MediaWiki - VisualEditor Extension: f...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132715"
+  },
+  {
+   "id": "CVE-2026-132716",
+   "published": "2026-11-24T23:17:27+00:00",
+   "score": 6.9,
+   "severity": "MEDIUM",
+   "summary": "Uncontrolled Resource Consumption vulnerability in Wikimedia Foundation MediaWiki - MobileFrontend Extension. This vulnerability is associated with program files includes/Transforms/QuickFactsTransform.php. This issue affects MediaWiki - MobileFrontend Extension: 1.47.",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132716"
+  },
+  {
+   "id": "CVE-2026-132717",
+   "published": "2026-11-24T23:17:27+00:00",
+   "score": 4.6,
+   "severity": "MEDIUM",
+   "summary": "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Wikimedia Foundation MediaWiki - WikimediaMessages Extension, MediaWiki - MinervaNeue Skin. This vulnerability is associated with program files i18n/wikimediaoverrides/en.json. This issue affects M...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132717"
+  },
+  {
+   "id": "CVE-2026-132718",
+   "published": "2026-11-24T23:17:27+00:00",
+   "score": 4.8,
+   "severity": "MEDIUM",
+   "summary": "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Wikimedia Foundation MediaWiki - MobileFrontend Extension, MediaWiki - MinervaNeue Skin. This vulnerability is associated with program files resources/skins.minerva.scripts/page-issues/overlay/page...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132718"
+  },
+  {
+   "id": "CVE-2026-132719",
+   "published": "2026-11-24T23:17:27+00:00",
    "score": 5.3,
    "severity": "MEDIUM",
-   "summary": "Missing Authorization vulnerability in Arraytics WP Event Solution wp-event-solution allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects WP Event Solution: from n/a through 4.1.30.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-125441"
+   "summary": "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Wikimedia Foundation MediaWiki. This vulnerability is associated with program files includes/parser/Sanitizer.php. This issue affects MediaWiki: from 1.43.0 before 1.43.12, from 1.45.0 before 1.45....",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132719"
   },
   {
-   "id": "CVE-2026-120720",
-   "published": "2026-11-24T13:17:21+00:00",
-   "score": 5.9,
+   "id": "CVE-2026-132720",
+   "published": "2026-11-24T23:17:27+00:00",
+   "score": 6.9,
    "severity": "MEDIUM",
-   "summary": "Server-Side Request Forgery (SSRF) vulnerability in ex-aws ex_aws allows an attacker who controls an S3 bucket name to send the application's signed S3 requests to a host of their choice. With virtual_host: true, ExAws.Operation.S3.add_bucket_to_path/2 in lib/ex_aws/operation/s3.ex builds the reque...",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-120720"
+   "summary": "Allocation of Resources Without Limits or Throttling vulnerability in Wikimedia Foundation MediaWiki - VisualEditor Extension. This vulnerability is associated with program files includes/ApiVisualEditorEdit.php. This issue affects MediaWiki - VisualEditor Extension: from 1.43.0 before 1.43.12, fro...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132720"
   },
   {
-   "id": "CVE-2026-94365",
-   "published": "2026-11-24T12:17:26+00:00",
-   "score": 5.4,
+   "id": "CVE-2026-132706",
+   "published": "2026-11-24T23:17:26+00:00",
+   "score": 6.9,
    "severity": "MEDIUM",
-   "summary": "Improper neutralization of input during web page generation ('cross-site scripting') vulnerability in ITG Bilgisayar Teknolojileri Grubu Ltd. Şti. VSRM allows XSS Through HTTP Headers. This issue affects vSRM: from v14.08.1 before v14.08.5.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94365"
+   "summary": "Exposure of Sensitive Information to an Unauthorized Actor vulnerability in Wikimedia Foundation MediaWiki. This vulnerability is associated with program files includes/Api/ApiQueryPageProps.php. This issue affects MediaWiki: from 1.43.0 before 1.43.12, from 1.45.0 before 1.45.7, from 1.46.0 before...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132706"
   },
   {
-   "id": "CVE-2026-96438",
-   "published": "2026-11-24T12:17:26+00:00",
-   "score": 6.5,
-   "severity": "MEDIUM",
-   "summary": "Unrestricted upload of file with dangerous type vulnerability in ITG Bilgisayar Teknolojileri Grubu Ltd. Şti. VSRM allows Using Malicious Files. This issue affects vSRM: from v14.08.1 before v14.08.5.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-96438"
-  },
-  {
-   "id": "CVE-2026-97198",
-   "published": "2026-11-24T12:17:26+00:00",
-   "score": 6.5,
-   "severity": "MEDIUM",
-   "summary": "Authorization bypass through User-Controlled key vulnerability in ITG Bilgisayar Teknolojileri Grubu Ltd. Şti. VSRM allows Privilege Abuse. This issue affects vSRM: from v14.08.1 before v14.08.5.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-97198"
-  },
-  {
-   "id": "CVE-2026-62269",
-   "published": "2026-11-24T12:17:25+00:00",
+   "id": "CVE-2026-132707",
+   "published": "2026-11-24T23:17:26+00:00",
    "score": 5.1,
    "severity": "MEDIUM",
-   "summary": "Improper Encoding or Escaping of Output vulnerability in ex_aws (S3 request URL construction). This vulnerability is associated with program files lib/ex_aws/request/url.ex and program routines ExAws.Request.Url.build/2, ExAws.Request.Url.sanitize/2 and ExAws.Request.Url.get_path/2. ex_aws does not...",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-62269"
+   "summary": "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Wikimedia Foundation MediaWiki, MediaWiki - Translate Extension. This vulnerability is associated with program files includes/Output/OutputPage.php. This issue affects MediaWiki, MediaWiki - Transl...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132707"
   },
   {
-   "id": "CVE-2026-84785",
-   "published": "2026-11-24T12:17:25+00:00",
+   "id": "CVE-2026-132708",
+   "published": "2026-11-24T23:17:26+00:00",
+   "score": 5.3,
+   "severity": "MEDIUM",
+   "summary": "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Wikimedia Foundation mediawiki/services/parsoid. This vulnerability is associated with program files wikimedia/parsoid/src/Core/Sanitizer.php. This issue affects mediawiki/services/parsoid: from 1....",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132708"
+  },
+  {
+   "id": "CVE-2026-132709",
+   "published": "2026-11-24T23:17:26+00:00",
+   "score": 5.3,
+   "severity": "MEDIUM",
+   "summary": "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Wikimedia Foundation mediawiki/services/parsoid. This vulnerability is associated with program files wikimedia/parsoid/src/Wt2Html/DOM/Handlers/TableFixups.php. This issue affects mediawiki/service...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132709"
+  },
+  {
+   "id": "CVE-2026-132710",
+   "published": "2026-11-24T23:17:26+00:00",
+   "score": 8.7,
+   "severity": "HIGH",
+   "summary": "Exposure of Sensitive Information to an Unauthorized Actor vulnerability in Wikimedia Foundation MediaWiki. This vulnerability is associated with program files includes/Rest/Handler/ParsoidHandler.php. This issue affects MediaWiki: from 1.46.0 before 1.46.3, 1.47.",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132710"
+  },
+  {
+   "id": "CVE-2026-132711",
+   "published": "2026-11-24T23:17:26+00:00",
+   "score": 5.3,
+   "severity": "MEDIUM",
+   "summary": "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Wikimedia Foundation mediawiki/services/parsoid. This vulnerability is associated with program files wikimedia/parsoid/src/Wt2Html/TT/AttributeExpander.php. This issue affects mediawiki/services/pa...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132711"
+  },
+  {
+   "id": "CVE-2026-132712",
+   "published": "2026-11-24T23:17:26+00:00",
+   "score": 5.3,
+   "severity": "MEDIUM",
+   "summary": "Improper Input Validation vulnerability in Wikimedia Foundation MediaWiki, mediawiki/services/parsoid. This vulnerability is associated with program files wikimedia/parsoid/src/Core/Sanitizer.php. This issue affects MediaWiki, mediawiki/services/parsoid: from 1.43.0 before 1.43.12, from 1.45.0 befo...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132712"
+  },
+  {
+   "id": "CVE-2026-132697",
+   "published": "2026-11-24T23:17:25+00:00",
+   "score": 9.1,
+   "severity": "CRITICAL",
+   "summary": "Missing Authorization vulnerability in Wikimedia Foundation MediaWiki - EmailAuth Extension. This vulnerability is associated with program files includes/EmailAuthSecondaryAuthenticationProvider.php. This issue affects MediaWiki - EmailAuth Extension: 1.43, 1.45, 1.46, 1.47.",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132697"
+  },
+  {
+   "id": "CVE-2026-132698",
+   "published": "2026-11-24T23:17:25+00:00",
+   "score": 5.1,
+   "severity": "MEDIUM",
+   "summary": "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Wikimedia Foundation MediaWiki - ContentTranslation Extension. This vulnerability is associated with program files includes/Special/SpecialAutomaticTranslation.php, minT/src/mintHome.js, minT/src/u...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132698"
+  },
+  {
+   "id": "CVE-2026-132699",
+   "published": "2026-11-24T23:17:25+00:00",
+   "score": 6.9,
+   "severity": "MEDIUM",
+   "summary": "Missing Authorization vulnerability in Wikimedia Foundation MediaWiki - ContentTranslation Extension. This vulnerability is associated with program files includes/ActionApi/ApiSectionTranslationDelete.php, includes/Store/SectionTranslationStore.php. This issue affects MediaWiki - ContentTranslation...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132699"
+  },
+  {
+   "id": "CVE-2026-132700",
+   "published": "2026-11-24T23:17:25+00:00",
+   "score": 5.3,
+   "severity": "MEDIUM",
+   "summary": "Missing Authorization vulnerability in Wikimedia Foundation MediaWiki - ContentTranslation Extension. This vulnerability is associated with program files includes/ActionApi/ApiContentTranslationPublish.php. This issue affects MediaWiki - ContentTranslation Extension: 1.43, 1.45, 1.46, 1.47.",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132700"
+  },
+  {
+   "id": "CVE-2026-132701",
+   "published": "2026-11-24T23:17:25+00:00",
+   "score": 6.9,
+   "severity": "MEDIUM",
+   "summary": "Missing Authorization vulnerability in Wikimedia Foundation MediaWiki - ContentTranslation Extension. This vulnerability is associated with program files includes/ActionApi/ApiSectionTranslationPublish.php, includes/Store/SectionTranslationStore.php. This issue affects MediaWiki - ContentTranslatio...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132701"
+  },
+  {
+   "id": "CVE-2026-132702",
+   "published": "2026-11-24T23:17:25+00:00",
+   "score": 5.1,
+   "severity": "MEDIUM",
+   "summary": "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Wikimedia Foundation MediaWiki - CommunityRequests Extension. This vulnerability is associated with program files includes/EntityDataRenderer.php. This issue affects MediaWiki - CommunityRequests E...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132702"
+  },
+  {
+   "id": "CVE-2026-132703",
+   "published": "2026-11-24T23:17:25+00:00",
+   "score": 5.3,
+   "severity": "MEDIUM",
+   "summary": "Missing Authorization vulnerability in Wikimedia Foundation MediaWiki - CommunityRequests Extension. This vulnerability is associated with program files includes/AbstractWishlistSpecialPage.php. This issue affects MediaWiki - CommunityRequests Extension: 1.45, 1.46, 1.47.",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132703"
+  },
+  {
+   "id": "CVE-2026-132705",
+   "published": "2026-11-24T23:17:25+00:00",
+   "score": 2.1,
+   "severity": "LOW",
+   "summary": "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Wikimedia Foundation MediaWiki - UrlShortener Extension. This vulnerability is associated with program files includes/SpecialUrlShortener.php. This issue affects MediaWiki - UrlShortener Extension:...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132705"
+  },
+  {
+   "id": "CVE-2026-132689",
+   "published": "2026-11-24T23:17:24+00:00",
+   "score": 5.3,
+   "severity": "MEDIUM",
+   "summary": "Cross-Site Request Forgery (CSRF) vulnerability in Wikimedia Foundation MediaWiki - SecurePoll Extension. This vulnerability is associated with program files includes/Pages/TranslatePage.php. This issue affects MediaWiki - SecurePoll Extension: 1.43, 1.45, 1.46, 1.47.",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132689"
+  },
+  {
+   "id": "CVE-2026-132690",
+   "published": "2026-11-24T23:17:24+00:00",
+   "score": 5.1,
+   "severity": "MEDIUM",
+   "summary": "Improper Input Validation vulnerability in Wikimedia Foundation MediaWiki - SecurePoll Extension. This vulnerability is associated with program files includes/Pages/CreatePage.php. This issue affects MediaWiki - SecurePoll Extension: 1.43, 1.45, 1.46, 1.47.",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132690"
+  },
+  {
+   "id": "CVE-2026-132691",
+   "published": "2026-11-24T23:17:24+00:00",
+   "score": 5.3,
+   "severity": "MEDIUM",
+   "summary": "Improper Input Validation vulnerability in Wikimedia Foundation MediaWiki - SecurePoll Extension. This vulnerability is associated with program files i18n/en.json, i18n/qqq.json, includes/Pages/VotePage.php. This issue affects MediaWiki - SecurePoll Extension: 1.43, 1.45, 1.46, 1.47.",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132691"
+  },
+  {
+   "id": "CVE-2026-132692",
+   "published": "2026-11-24T23:17:24+00:00",
+   "score": 5.1,
+   "severity": "MEDIUM",
+   "summary": "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Wikimedia Foundation MediaWiki - SecurePoll Extension. This vulnerability is associated with program files modules/ext.securepoll.htmlform/translation/pages/ResultPage.js. This issue affects MediaW...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132692"
+  },
+  {
+   "id": "CVE-2026-132693",
+   "published": "2026-11-24T23:17:24+00:00",
+   "score": 5.3,
+   "severity": "MEDIUM",
+   "summary": "Improper Authentication vulnerability in Wikimedia Foundation MediaWiki. This vulnerability is associated with program files includes/SpecialPage/FormSpecialPage.php, includes/SpecialPage/SpecialPage.php. This issue affects MediaWiki: from 1.43.0 before 1.43.12, from 1.45.0 before 1.45.7, from 1.46...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132693"
+  },
+  {
+   "id": "CVE-2026-132694",
+   "published": "2026-11-24T23:17:24+00:00",
+   "score": 9.1,
+   "severity": "CRITICAL",
+   "summary": "Vulnerability in Wikimedia Foundation MediaWiki - OATHAuth Extension. This vulnerability is associated with program files src/Key/WebAuthnKey.php. This issue affects MediaWiki - OATHAuth Extension: from 1.46.0 before 1.46.3, 1.47.",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132694"
+  },
+  {
+   "id": "CVE-2026-132695",
+   "published": "2026-11-24T23:17:24+00:00",
+   "score": 5.3,
+   "severity": "MEDIUM",
+   "summary": "Missing Authorization vulnerability in Wikimedia Foundation MediaWiki - SecurePoll Extension. This vulnerability is associated with program files i18n/en.json, i18n/qqq.json, includes/Pages/DetailsPage.php. This issue affects MediaWiki - SecurePoll Extension: 1.43, 1.45, 1.46, 1.47.",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132695"
+  },
+  {
+   "id": "CVE-2026-132696",
+   "published": "2026-11-24T23:17:24+00:00",
+   "score": 5.3,
+   "severity": "MEDIUM",
+   "summary": "Improper Access Control vulnerability in Wikimedia Foundation MediaWiki - OATHAuth Extension. This vulnerability is associated with program files src/HTMLForm/RecoveryCodesRemoveTemporaryForm.php, src/HTMLForm/RecoveryCodesStatusForm.php, src/Module/RecoveryCodes.php, src/Special/OATHManage.php. Th...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132696"
+  },
+  {
+   "id": "CVE-2026-132682",
+   "published": "2026-11-24T23:17:23+00:00",
+   "score": 5.1,
+   "severity": "MEDIUM",
+   "summary": "Uncontrolled Resource Consumption vulnerability in Wikimedia Foundation MediaWiki - AbuseFilter Extension. This vulnerability is associated with program files includes/Parser/AbuseFilterTokenizer.php. This issue affects MediaWiki - AbuseFilter Extension: from 1.43.0 before 1.43.12, from 1.45.0 befo...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132682"
+  },
+  {
+   "id": "CVE-2026-132683",
+   "published": "2026-11-24T23:17:23+00:00",
+   "score": 6.9,
+   "severity": "MEDIUM",
+   "summary": "Vulnerability in Wikimedia Foundation MediaWiki - AntiSpoof Extension. This vulnerability is associated with program files includes/AntiSpoof.php. This issue affects MediaWiki - AntiSpoof Extension: 1.43, 1.45, 1.46, 1.47.",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132683"
+  },
+  {
+   "id": "CVE-2026-132684",
+   "published": "2026-11-24T23:17:23+00:00",
+   "score": 5.3,
+   "severity": "MEDIUM",
+   "summary": "Cross-Site Request Forgery (CSRF) vulnerability in Wikimedia Foundation MediaWiki - CentralNotice Extension. This vulnerability is associated with program files includes/specials/SpecialCentralNoticeBanners.php. This issue affects MediaWiki - CentralNotice Extension: 1.43, 1.45, 1.46, 1.47.",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132684"
+  },
+  {
+   "id": "CVE-2026-132685",
+   "published": "2026-11-24T23:17:23+00:00",
+   "score": 5.1,
+   "severity": "MEDIUM",
+   "summary": "Vulnerability in Wikimedia Foundation MediaWiki - CheckUser Extension. This vulnerability is associated with program files src/Api/ApiQueryCheckUserLog.php. This issue affects MediaWiki - CheckUser Extension: from 1.43.0 before 1.43.12, from 1.45.0 before 1.45.7, from 1.46.0 before 1.46.3, 1.47.",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132685"
+  },
+  {
+   "id": "CVE-2026-132686",
+   "published": "2026-11-24T23:17:23+00:00",
+   "score": 4.8,
+   "severity": "MEDIUM",
+   "summary": "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Wikimedia Foundation MediaWiki - CheckUser Extension. This vulnerability is associated with program files modules/ext.checkUser/checkuser/checkUserHelper/buildUserElement.js. This issue affects Med...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132686"
+  },
+  {
+   "id": "CVE-2026-132687",
+   "published": "2026-11-24T23:17:23+00:00",
+   "score": 5.1,
+   "severity": "MEDIUM",
+   "summary": "Vulnerability in Wikimedia Foundation MediaWiki - CheckUser Extension. This vulnerability is associated with program files src/Api/ApiQueryCheckUser.php. This issue affects MediaWiki - CheckUser Extension: from 1.43.0 before 1.43.12, from 1.45.0 before 1.45.7, from 1.46.0 before 1.46.3, 1.47.",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132687"
+  },
+  {
+   "id": "CVE-2026-132688",
+   "published": "2026-11-24T23:17:23+00:00",
+   "score": 4.8,
+   "severity": "MEDIUM",
+   "summary": "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Wikimedia Foundation MediaWiki - CheckUser Extension. This vulnerability is associated with program files modules/ext.checkUser.tempAccounts/ipReveal.js. This issue affects MediaWiki - CheckUser Ex...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132688"
+  },
+  {
+   "id": "CVE-2026-132673",
+   "published": "2026-11-24T23:17:22+00:00",
+   "score": 4.3,
+   "severity": "MEDIUM",
+   "summary": "Improper Access Control vulnerability in Wikimedia Foundation MediaWiki. This vulnerability is associated with program files includes/Specials/SpecialChangeCredentials.php, includes/Specials/SpecialLinkAccounts.php, includes/Specials/SpecialUnlinkAccounts.php. This issue affects MediaWiki: from 1.4...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132673"
+  },
+  {
+   "id": "CVE-2026-132674",
+   "published": "2026-11-24T23:17:22+00:00",
+   "score": 6.5,
+   "severity": "MEDIUM",
+   "summary": "Uncontrolled Resource Consumption vulnerability in Wikimedia Foundation MediaWiki. This vulnerability is associated with program files includes/Media/PNGMetadataExtractor.php. This issue affects MediaWiki: from 1.43.0 before 1.43.12, from 1.45.0 before 1.45.7, from 1.46.0 before 1.46.3, 1.47.",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132674"
+  },
+  {
+   "id": "CVE-2026-132675",
+   "published": "2026-11-24T23:17:22+00:00",
+   "score": 5.1,
+   "severity": "MEDIUM",
+   "summary": "Exposure of Sensitive Information to an Unauthorized Actor vulnerability in Wikimedia Foundation MediaWiki - CheckUser Extension. This vulnerability is associated with program files src/Api/Rest/Handler/BatchTemporaryAccountHandler.php. This issue affects MediaWiki - CheckUser Extension: from 1.45....",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132675"
+  },
+  {
+   "id": "CVE-2026-132676",
+   "published": "2026-11-24T23:17:22+00:00",
+   "score": 4.8,
+   "severity": "MEDIUM",
+   "summary": "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Wikimedia Foundation MediaWiki - CheckUser Extension. This vulnerability is associated with program files src/SuggestedInvestigations/Formatters/StatusReasonFormatter.php. This issue affects MediaW...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132676"
+  },
+  {
+   "id": "CVE-2026-132677",
+   "published": "2026-11-24T23:17:22+00:00",
+   "score": 5.1,
+   "severity": "MEDIUM",
+   "summary": "Exposure of Sensitive Information to an Unauthorized Actor vulnerability in Wikimedia Foundation MediaWiki - CheckUser Extension. This vulnerability is associated with program files src/Api/CheckUser/ApiQueryCheckUserActionsResponse.php, src/CheckUser/Pagers/CheckUserGetActionsPager.php. This issue...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132677"
+  },
+  {
+   "id": "CVE-2026-132678",
+   "published": "2026-11-24T23:17:22+00:00",
+   "score": 6.9,
+   "severity": "MEDIUM",
+   "summary": "Exposure of Sensitive Information to an Unauthorized Actor vulnerability in Wikimedia Foundation MediaWiki - GlobalBlocking Extension. This vulnerability is associated with program files extension.json, includes/Api/ApiQueryGlobalBlocks.php. This issue affects MediaWiki - GlobalBlocking Extension:...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132678"
+  },
+  {
+   "id": "CVE-2026-132679",
+   "published": "2026-11-24T23:17:22+00:00",
+   "score": 5.1,
+   "severity": "MEDIUM",
+   "summary": "Missing Authorization vulnerability in Wikimedia Foundation MediaWiki - GlobalBlocking Extension. This vulnerability is associated with program files includes/Api/ApiGlobalBlock.php. This issue affects MediaWiki - GlobalBlocking Extension: 1.43, 1.45, 1.46, 1.47.",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132679"
+  },
+  {
+   "id": "CVE-2026-132681",
+   "published": "2026-11-24T23:17:22+00:00",
+   "score": 5.1,
+   "severity": "MEDIUM",
+   "summary": "Exposure of Sensitive Information to an Unauthorized Actor vulnerability in Wikimedia Foundation MediaWiki - AbuseFilter Extension. This vulnerability is associated with program files includes/View/AbuseFilterViewRevert.php. This issue affects MediaWiki - AbuseFilter Extension: from 1.43.0 before 1...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132681"
+  },
+  {
+   "id": "CVE-2026-132657",
+   "published": "2026-11-24T23:17:21+00:00",
+   "score": 5.1,
+   "severity": "MEDIUM",
+   "summary": "URL Redirection to Untrusted Site ('Open Redirect') vulnerability in Wikimedia Foundation MediaWiki. This vulnerability is associated with program files includes/Title/Title.php. This issue affects MediaWiki: from 1.43.0 before 1.43.12, from 1.45.0 before 1.45.7, from 1.46.0 before 1.46.3, 1.47.",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132657"
+  },
+  {
+   "id": "CVE-2026-132669",
+   "published": "2026-11-24T23:17:21+00:00",
+   "score": 9.3,
+   "severity": "CRITICAL",
+   "summary": "Improper Access Control vulnerability in Wikimedia Foundation MediaWiki - EditAccount Extension.",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132669"
+  },
+  {
+   "id": "CVE-2026-132670",
+   "published": "2026-11-24T23:17:21+00:00",
+   "score": 8.7,
+   "severity": "HIGH",
+   "summary": "Improper Access Control vulnerability in Wikimedia Foundation MediaWiki. This vulnerability is associated with program files includes/Api/ApiQueryRevisionsBase.php. This issue affects MediaWiki: from 1.43.0 before 1.43.12, from 1.45.0 before 1.45.7, from 1.46.0 before 1.46.3, 1.47.",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132670"
+  },
+  {
+   "id": "CVE-2026-132671",
+   "published": "2026-11-24T23:17:21+00:00",
+   "score": 5.1,
+   "severity": "MEDIUM",
+   "summary": "Exposure of Sensitive Information to an Unauthorized Actor vulnerability in Wikimedia Foundation MediaWiki - AbuseFilter Extension. This vulnerability is associated with program files includes/View/AbuseFilterViewTestBatch.php. This issue affects MediaWiki - AbuseFilter Extension: from 1.46.0 befor...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132671"
+  },
+  {
+   "id": "CVE-2026-132672",
+   "published": "2026-11-24T23:17:21+00:00",
+   "score": 6.5,
+   "severity": "MEDIUM",
+   "summary": "Uncontrolled Resource Consumption vulnerability in Wikimedia Foundation MediaWiki. This vulnerability is associated with program files includes/Search/SearchHighlighter.php. This issue affects MediaWiki: from 1.43.0 before 1.43.12, from 1.45.0 before 1.45.7, from 1.46.0 before 1.46.3, 1.47.",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132672"
+  },
+  {
+   "id": "CVE-2026-123626",
+   "published": "2026-11-24T23:17:20+00:00",
+   "score": 7.0,
+   "severity": "HIGH",
+   "summary": "Akaunting 3.3.0 contains a stored cross-site scripting vulnerability in the company localisation date format. An authenticated Manager can store an arbitrary date format. When another authenticated user opens a recurring invoice, Akaunting formats dates with that value and sends the result to a raw...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123626"
+  },
+  {
+   "id": "CVE-2026-57838",
+   "published": "2026-11-24T22:18:53+00:00",
    "score": null,
    "severity": null,
-   "summary": "Issue summary: A QUIC peer that sends many small out-of-order STREAM fragments while withholding the first byte of the stream may cause OpenSSL to buffer a large number of reassembly nodes occupying much larger memory than the actual data sent. Impact summary: A remote peer can pin large amounts of...",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84785"
+   "summary": "Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-57838"
   },
   {
-   "id": "CVE-2026-59697",
-   "published": "2026-11-24T12:17:24+00:00",
-   "score": 7.6,
+   "id": "CVE-2026-57840",
+   "published": "2026-11-24T22:18:53+00:00",
+   "score": null,
+   "severity": null,
+   "summary": "Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-57840"
+  },
+  {
+   "id": "CVE-2026-66734",
+   "published": "2026-11-24T22:18:53+00:00",
+   "score": null,
+   "severity": null,
+   "summary": "Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-66734"
+  },
+  {
+   "id": "CVE-2026-57837",
+   "published": "2026-11-24T22:18:52+00:00",
+   "score": null,
+   "severity": null,
+   "summary": "Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-57837"
+  },
+  {
+   "id": "CVE-2026-135817",
+   "published": "2026-11-24T22:18:51+00:00",
+   "score": 6.9,
+   "severity": "MEDIUM",
+   "summary": "A vulnerability was determined in beenuar AiSOC up to 17.0.0. Affected by this vulnerability is an unknown functionality of the component AuditMiddleware. This manipulation causes improper verification of cryptographic signature. The attack may be initiated remotely. Upgrading to version 17.1.0 add...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135817"
+  },
+  {
+   "id": "CVE-2026-16663",
+   "published": "2026-11-24T22:18:51+00:00",
+   "score": 8.4,
    "severity": "HIGH",
-   "summary": "Server-Side Request Forgery (SSRF) vulnerability in ex_aws (instance metadata token provider). This vulnerability is associated with program files lib/ex_aws/instance_meta_token_provider.ex and program routines ExAws.InstanceMetaTokenProvider.request_token/1 and ExAws.InstanceMetaTokenProvider.get/...",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-59697"
+   "summary": "MCUboot's encrypted serial-recovery path contains an attacker-controlled out-of-bounds stack write in decrypt_region_inplace() in boot/boot_serial/src/boot_serial_encryption.c. The routine decrypts an uploaded encrypted image one flash sector at a time into a sector-sized stack VLA buf[sz], but whe...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-16663"
   },
   {
-   "id": "CVE-2026-59698",
-   "published": "2026-11-24T12:17:24+00:00",
+   "id": "CVE-2026-16665",
+   "published": "2026-11-24T22:18:51+00:00",
    "score": 7.4,
    "severity": "HIGH",
-   "summary": "Relative path traversal in ex_aws allows an attacker who controls an S3 object key to escape the intended bucket or key prefix. When ex_aws builds a path-style S3 request, ExAws.Operation.S3.add_bucket_to_path/2 in lib/ex_aws/operation/s3.ex joins the bucket name and the object key into a single pa...",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-59698"
+   "summary": "Summary MCUboot enforces several security-critical invariants on the boot, image-swap, and validation paths using assert(). In a standard release/production build (NDEBUG defined) assert() expands to a no-op, so an invariant the code intends to halt on instead falls through, and execution continues...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-16665"
+  },
+  {
+   "id": "CVE-2026-133456",
+   "published": "2026-11-24T22:18:50+00:00",
+   "score": 7.5,
+   "severity": "HIGH",
+   "summary": "AutoGPT is a workflow automation platform for creating, deploying, and managing continuous artificial intelligence agents. From 0.11.1 before 0.11.3, anyone with an Exa Search Monitor trigger's URL can start one run of the owner's workflow per request with fake event data, even when a secret is set...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-133456"
+  },
+  {
+   "id": "CVE-2026-135814",
+   "published": "2026-11-24T22:18:50+00:00",
+   "score": 2.1,
+   "severity": "LOW",
+   "summary": "A vulnerability has been found in zhblue hustoj up to 26.08.19. This impacts an unknown function of the file trunk/core/judged/judged.cc of the component Judge Daemon Sandbox. The manipulation leads to execution with unnecessary privileges. The attack can be initiated remotely. The exploit has been...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135814"
+  },
+  {
+   "id": "CVE-2026-135815",
+   "published": "2026-11-24T22:18:50+00:00",
+   "score": 2.0,
+   "severity": "LOW",
+   "summary": "A vulnerability was found in zhblue hustoj up to 26.08.19. Affected is the function prepare_files of the file trunk/core/judge_client/judge_client.cc. The manipulation results in os command injection. The attack can be launched remotely. The exploit has been made public and could be used. Upgrading...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135815"
+  },
+  {
+   "id": "CVE-2026-135816",
+   "published": "2026-11-24T22:18:50+00:00",
+   "score": 2.0,
+   "severity": "LOW",
+   "summary": "A flaw has been found in GouguCMS up to 4.08.18. This affects the function detail of the file app/home/controller/Pages.php. Executing a manipulation can lead to code injection. It is possible to launch the attack remotely. The exploit has been published and may be used. The vendor was contacted ea...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135816"
+  },
+  {
+   "id": "CVE-2026-124284",
+   "published": "2026-11-24T22:18:49+00:00",
+   "score": 9.8,
+   "severity": "CRITICAL",
+   "summary": "A critical security vulnerability affects certain authentication methods in Genetec Security Center, including external identity providers using OpenID Connect (OIDC) or SAML 2.0, and Active Directory Federation Services (AD FS) using WS-Trust or WS-Federation. Under specific conditions, successful...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-124284"
+  },
+  {
+   "id": "CVE-2026-61512",
+   "published": "2026-11-24T21:18:31+00:00",
+   "score": 7.3,
+   "severity": "HIGH",
+   "summary": "VeraCrypt before 1.26.30 on Linux contains a command injection vulnerability in CoreUnix::CheckFilesystem that allows a local attacker with same-UID access and an active elevated CoreService session to execute arbitrary commands by injecting an unsanitized VirtualDevice value into a shell command s...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-61512"
+  },
+  {
+   "id": "CVE-2026-61513",
+   "published": "2026-11-24T21:18:31+00:00",
+   "score": 7.3,
+   "severity": "HIGH",
+   "summary": "VeraCrypt through 1.26.31 on Linux contains an improper path restriction vulnerability in the elevated CoreService, which passes the path and owner UID from a SetFileOwnerRequest directly to chown() in CoreUnix::SetFileOwner without target validation on Linux. An attacker with an active elevated Co...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-61513"
+  },
+  {
+   "id": "CVE-2026-136538",
+   "published": "2026-11-24T21:18:21+00:00",
+   "score": 6.5,
+   "severity": "MEDIUM",
+   "summary": "LiteLLM Virtual Key Model Alias Incorrect Authorization Privilege Escalation Vulnerability. This vulnerability allows remote attackers to escalate privileges on affected installations of LiteLLM. Authentication is required to exploit this vulnerability. The specific flaw exists within the handling...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-136538"
+  },
+  {
+   "id": "CVE-2026-136539",
+   "published": "2026-11-24T21:18:21+00:00",
+   "score": 7.2,
+   "severity": "HIGH",
+   "summary": "LiteLLM Pass-Through Endpoint Code Injection Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of LiteLLM. Authentication is required to exploit this vulnerability. The specific flaw exists within the handling of pass...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-136539"
+  },
+  {
+   "id": "CVE-2026-136540",
+   "published": "2026-11-24T21:18:21+00:00",
+   "score": 5.3,
+   "severity": "MEDIUM",
+   "summary": "LiteLLM Secret Manager oidc Resolver Information Disclosure Vulnerability. This vulnerability allows remote attackers to disclose sensitive information on affected installations of LiteLLM. Authentication is required to exploit this vulnerability. The specific flaw exists within the secret resoluti...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-136540"
+  },
+  {
+   "id": "CVE-2026-136522",
+   "published": "2026-11-24T21:18:20+00:00",
+   "score": 8.7,
+   "severity": "HIGH",
+   "summary": "CubeWP Forms before 1.1.13 contains an unauthenticated stored cross-site scripting vulnerability that allows attackers to inject malicious JavaScript by submitting unregistered field names through the public REST route cubewp-custom-form/v1/submit/, which bypasses its own nonce check and saves unsa...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-136522"
+  },
+  {
+   "id": "CVE-2026-136534",
+   "published": "2026-11-24T21:18:20+00:00",
+   "score": 7.3,
+   "severity": "HIGH",
+   "summary": "Devin Desktop Uncontrolled Search Path Element Local Privilege Escalation Vulnerability. This vulnerability allows local attackers to escalate privileges on affected installations of Devin Desktop. An attacker must first obtain the ability to execute low-privileged code on the target system in orde...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-136534"
+  },
+  {
+   "id": "CVE-2026-136535",
+   "published": "2026-11-24T21:18:20+00:00",
+   "score": 7.2,
+   "severity": "HIGH",
+   "summary": "LiteLLM MCP Command Injection Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of LiteLLM. Authentication is required to exploit this vulnerability. The specific flaw exists within the handling of MCP stdio configura...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-136535"
+  },
+  {
+   "id": "CVE-2026-136536",
+   "published": "2026-11-24T21:18:20+00:00",
+   "score": 6.4,
+   "severity": "MEDIUM",
+   "summary": "LiteLLM is_request_body_safe Server-Side Request Forgery Information Disclosure Vulnerability. This vulnerability allows remote attackers to disclose sensitive information on affected installations of LiteLLM. Authentication is required to exploit this vulnerability. The specific flaw exists within...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-136536"
+  },
+  {
+   "id": "CVE-2026-136537",
+   "published": "2026-11-24T21:18:20+00:00",
+   "score": 6.5,
+   "severity": "MEDIUM",
+   "summary": "LiteLLM key_management_endpoints Missing Authorization Security Feature Bypass Vulnerability. This vulnerability allows remote attackers to bypass security features on affected installations of LiteLLM. Authentication is required to exploit this vulnerability. The specific flaw exists within the ke...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-136537"
+  },
+  {
+   "id": "CVE-2026-135809",
+   "published": "2026-11-24T21:18:19+00:00",
+   "score": 6.9,
+   "severity": "MEDIUM",
+   "summary": "A vulnerability has been found in javahuang SurveyKing up to 0.3.0-beta.3. Affected by this vulnerability is the function resolvePath of the file server/shared/src/main/java/cn/surveyking/server/storage/LocalStorageService.java of the component File Upload. Such manipulation of the argument basePat...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135809"
+  },
+  {
+   "id": "CVE-2026-135810",
+   "published": "2026-11-24T21:18:19+00:00",
+   "score": 5.5,
+   "severity": "MEDIUM",
+   "summary": "A vulnerability was identified in GongShengyue OnlineBooks up to dfc5eacc08d3b0396c266049548618f6fb9587ea. This vulnerability affects the function insert of the file src/cn/ylcto/book/filter/AdminLoginFilter.java of the component BooksServlet. The manipulation leads to missing authorization. Remote...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135810"
+  },
+  {
+   "id": "CVE-2026-135811",
+   "published": "2026-11-24T21:18:19+00:00",
+   "score": 5.5,
+   "severity": "MEDIUM",
+   "summary": "A security flaw has been discovered in GongShengyue OnlineBooks up to dfc5eacc08d3b0396c266049548618f6fb9587ea. This issue affects the function listSplit of the file src/cn/ylcto/book/servlet/BooksServlet.java of the component BooksServlet. The manipulation results in missing authentication. The at...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135811"
+  },
+  {
+   "id": "CVE-2026-135812",
+   "published": "2026-11-24T21:18:19+00:00",
+   "score": 5.3,
+   "severity": "MEDIUM",
+   "summary": "A weakness has been identified in GongShengyue OnlineBooks up to dfc5eacc08d3b0396c266049548618f6fb9587ea. Impacted is an unknown function. This manipulation causes cross-site request forgery. The attack is possible to be carried out remotely. This product adopts a rolling release strategy to maint...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135812"
+  },
+  {
+   "id": "CVE-2026-133453",
+   "published": "2026-11-24T21:18:18+00:00",
+   "score": 9.1,
+   "severity": "CRITICAL",
+   "summary": "AutoGPT is a workflow automation platform for creating, deploying, and managing continuous artificial intelligence agents. In versions 0.7.1 through 0.10.0, a user can add a version under another user's workflow ID and take over its Marketplace listing. An attacker with an account and the target's...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-133453"
+  },
+  {
+   "id": "CVE-2026-129970",
+   "published": "2026-11-24T21:18:17+00:00",
+   "score": 5.5,
+   "severity": "MEDIUM",
+   "summary": "A maliciously crafted PNG file, when imported into Autodesk Revit, can trigger a NULL Pointer Dereference vulnerability. A malicious actor may leverage this vulnerability to cause the application to terminate unexpectedly, resulting in a denial-of-service.",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-129970"
+  },
+  {
+   "id": "CVE-2026-132254",
+   "published": "2026-11-24T21:18:17+00:00",
+   "score": 4.3,
+   "severity": "MEDIUM",
+   "summary": "AutoGPT is a workflow automation platform for creating, deploying, and managing continuous artificial intelligence agents. In versions 0.6.67 through 0.11.2, an External API key created while a user was a member of an organization keeps working in that organization after the user is removed. A form...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132254"
+  },
+  {
+   "id": "CVE-2026-132264",
+   "published": "2026-11-24T21:18:17+00:00",
+   "score": 8.1,
+   "severity": "HIGH",
+   "summary": "AutoGPT is a workflow automation platform for creating, deploying, and managing continuous artificial intelligence agents. In versions 0.6.63 through 0.10.0, an external API key or OAuth token that has only the EXECUTE_BLOCK permission can run AutoPilotBlock through the external API and receive a f...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132264"
+  },
+  {
+   "id": "CVE-2026-133449",
+   "published": "2026-11-24T21:18:17+00:00",
+   "score": 5.3,
+   "severity": "MEDIUM",
+   "summary": "AutoGPT is a workflow automation platform for creating, deploying, and managing continuous artificial intelligence agents. In versions 0.6.1 through 0.10.0, credentials are sent to a third party when a redirect's Location header hides the new host behind a backslash. A signed-in user who connects a...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-133449"
+  },
+  {
+   "id": "CVE-2026-129969",
+   "published": "2026-11-24T21:18:16+00:00",
+   "score": 5.5,
+   "severity": "MEDIUM",
+   "summary": "A maliciously crafted PDF file, when imported into Autodesk Revit, can trigger a Memory Allocation with Excessive Size Value vulnerability. A malicious actor may leverage this vulnerability to cause excessive memory consumption, potentially resulting in the application terminating unexpectedly.",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-129969"
+  },
+  {
+   "id": "CVE-2026-121725",
+   "published": "2026-11-24T21:18:10+00:00",
+   "score": 5.5,
+   "severity": "MEDIUM",
+   "summary": "A maliciously crafted IFCZIP file, when imported through Autodesk Revit or Autodesk IFC for Revit Add-in, can exploit a path traversal flaw to write attacker-controlled files outside the intended extraction directory. Depending on the destination, a written file may later be loaded or executed, pot...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-121725"
+  },
+  {
+   "id": "CVE-2026-135800",
+   "published": "2026-11-24T20:18:53+00:00",
+   "score": 6.9,
+   "severity": "MEDIUM",
+   "summary": "A flaw has been found in hiyouga LLaMA-Factory up to 0.9.5. Affected is the function save_args/load_args of the file src/llamafactory/webui/runner.py of the component WebUI. This manipulation of the argument config_path causes path traversal. The attack can be initiated remotely. The vendor was con...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135800"
+  },
+  {
+   "id": "CVE-2026-136328",
+   "published": "2026-11-24T20:18:53+00:00",
+   "score": 7.8,
+   "severity": "HIGH",
+   "summary": "A flaw was found in the file-psd plugin in GIMP. When processing a specially crafted PSD (Photoshop Document) image file in LAB color mode, the plugin does not properly validate that a fourth channel is present when the transparency flag is set. This mismatch causes the merged-image path to allocat...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-136328"
+  },
+  {
+   "id": "CVE-2026-136452",
+   "published": "2026-11-24T20:18:53+00:00",
+   "score": 5.3,
+   "severity": "MEDIUM",
+   "summary": "browser-use before 1.0.0 contains a URL parser differential vulnerability in SecurityWatchdog that allows attackers to bypass allowed_domains, prohibited_domains, and block_ip_addresses checks by crafting a URL with a backslash before the allowed host, exploiting the mismatch between urllib.parse h...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-136452"
+  },
+  {
+   "id": "CVE-2026-136453",
+   "published": "2026-11-24T20:18:53+00:00",
+   "score": 7.1,
+   "severity": "HIGH",
+   "summary": "browser-use before 1.0.0 contains an allowlist bypass vulnerability in the SecurityWatchdog's _is_url_match function that allows attackers to bypass domain restrictions by exploiting a raw-string startswith() comparison instead of parsed hostname validation. Attackers can craft URLs using userinfo...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-136453"
+  },
+  {
+   "id": "CVE-2026-136455",
+   "published": "2026-11-24T20:18:53+00:00",
+   "score": 8.7,
+   "severity": "HIGH",
+   "summary": "borg-ui before 2.4.1 contains a privilege escalation vulnerability that allows a repository-scoped operator to escalate to full administrator by exploiting an unrestricted source_directories field in the backup-plan API that lacks path allow-listing. Attackers can configure a backup plan to archive...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-136455"
+  },
+  {
+   "id": "CVE-2026-135046",
+   "published": "2026-11-24T20:18:52+00:00",
+   "score": 8.8,
+   "severity": "HIGH",
+   "summary": "Cross-Site Request Forgery (CSRF) vulnerability in Rymera Web Co Store Exporter woocommerce-exporter allows Cross Site Request Forgery.This issue affects Store Exporter: from n/a through 2.8.2.",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135046"
+  },
+  {
+   "id": "CVE-2026-135414",
+   "published": "2026-11-24T20:18:52+00:00",
+   "score": 5.1,
+   "severity": "MEDIUM",
+   "summary": "Server-side request forgery in Amazon OpenSearch Service service software before R20260720 might allow an authenticated user with permission to manage snapshots to make the service send requests to network destinations of their choosing via the snapshot repository endpoint setting. This issue is ad...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135414"
+  },
+  {
+   "id": "CVE-2026-135799",
+   "published": "2026-11-24T20:18:52+00:00",
+   "score": 2.0,
+   "severity": "LOW",
+   "summary": "A vulnerability was detected in flowable flowable-engine 8.0.0. This impacts the function createElContext/importFunctions of the file modules/flowable-engine/src/main/java/org/flowable/engine/impl/scripting/JuelScriptEngine.java of the component JuelScriptEngine. The manipulation results in code in...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135799"
+  },
+  {
+   "id": "CVE-2026-126695",
+   "published": "2026-11-24T20:18:48+00:00",
+   "score": 8.7,
+   "severity": "HIGH",
+   "summary": "Use of hard-coded password vulnerability in Tibco Control Plane and Tibco Control Tower. This issue affects Control Plane: 1.22.0; Control Tower: 1.22.0.",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-126695"
+  },
+  {
+   "id": "CVE-2026-123340",
+   "published": "2026-11-24T20:18:47+00:00",
+   "score": 8.5,
+   "severity": "HIGH",
+   "summary": "Copeland XWEB Pro contains an OS command injection vulnerability that allows a remote, authenticated attacker to execute arbitrary commands as the root user. Fixed in 1.16.1.",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123340"
+  },
+  {
+   "id": "CVE-2026-123216",
+   "published": "2026-11-24T20:18:46+00:00",
+   "score": 8.5,
+   "severity": "HIGH",
+   "summary": "Copeland XWEB Pro contains an OS command injection vulnerability that allows a remote, authenticated attacker to execute arbitrary commands as the root user. Fixed in 1.16.1.",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123216"
+  },
+  {
+   "id": "CVE-2026-123217",
+   "published": "2026-11-24T20:18:46+00:00",
+   "score": 2.3,
+   "severity": "LOW",
+   "summary": "Copeland XWEB Pro allows a remote, authenticated attacker to inject additional arguments into the wireless interface configuration command. Impact is limited to modification of the wireless interface state. Fixed in 1.16.1.",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123217"
+  },
+  {
+   "id": "CVE-2026-123215",
+   "published": "2026-11-24T20:18:45+00:00",
+   "score": 9.3,
+   "severity": "CRITICAL",
+   "summary": "Copeland XWEB Pro contains a missing authentication vulnerability. Fixed in 1.16.1.",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123215"
+  },
+  {
+   "id": "CVE-2026-112732",
+   "published": "2026-11-24T20:18:21+00:00",
+   "score": 9.8,
+   "severity": "CRITICAL",
+   "summary": "Double free in Microsoft Office Visio allows an unauthorized attacker to execute code over a network.",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-112732"
+  },
+  {
+   "id": "CVE-2026-86154",
+   "published": "2026-11-24T19:18:25+00:00",
+   "score": null,
+   "severity": null,
+   "summary": "A vulnerability in Apache Jena allows arbitrary stack usage when parsing RDF Turtle-family languages. This issue affects Apache Jena: through 6.2.0. Users are recommended to upgrade to version 6.3.0, which fixes the issue.",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-86154"
+  },
+  {
+   "id": "CVE-2026-86155",
+   "published": "2026-11-24T19:18:25+00:00",
+   "score": 10.0,
+   "severity": "CRITICAL",
+   "summary": "A vulnerability in Apache Jena Fuseki in the SHACL validation functionality cause server side request forgery (SSRF). This issue affects Apache Jena Fuseki: through 6.2.0. Users are recommended to upgrade to version 6.3.0, which fixes the issue.",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-86155"
+  },
+  {
+   "id": "CVE-2026-86156",
+   "published": "2026-11-24T19:18:25+00:00",
+   "score": null,
+   "severity": null,
+   "summary": "Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') can allow SPARQL Update to access data from local server. This issue affects Apache Jena Fuseki through 6.2.0. Users are recommended to upgrade to version 6.3.0, which fixes the issue.",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-86156"
+  },
+  {
+   "id": "CVE-2026-75664",
+   "published": "2026-11-24T19:18:24+00:00",
+   "score": 5.4,
+   "severity": "MEDIUM",
+   "summary": "Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability. An attacker could exploit this issue by manipulating the DOM environment to execute malicious JavaScript within the context of the victim's browser. Exploitation of this issue requires user interaction in...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75664"
+  },
+  {
+   "id": "CVE-2026-75673",
+   "published": "2026-11-24T19:18:24+00:00",
+   "score": 5.4,
+   "severity": "MEDIUM",
+   "summary": "Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability. An attacker could exploit this issue by manipulating the DOM environment to execute malicious JavaScript within the context of the victim's browser. Exploitation of this issue requires user interaction in...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75673"
+  },
+  {
+   "id": "CVE-2026-75688",
+   "published": "2026-11-24T19:18:24+00:00",
+   "score": 5.4,
+   "severity": "MEDIUM",
+   "summary": "Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability. An attacker could exploit this issue by manipulating the DOM environment to execute malicious JavaScript within the context of the victim's browser. Exploitation of this issue requires user interaction in...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75688"
+  },
+  {
+   "id": "CVE-2026-71355",
+   "published": "2026-11-24T19:18:22+00:00",
+   "score": 5.4,
+   "severity": "MEDIUM",
+   "summary": "Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability. An attacker could exploit this issue by manipulating the DOM environment to execute malicious JavaScript within the context of the victim's browser. Exploitation of this issue requires user interaction in...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71355"
+  },
+  {
+   "id": "CVE-2026-75630",
+   "published": "2026-11-24T19:18:22+00:00",
+   "score": 5.4,
+   "severity": "MEDIUM",
+   "summary": "Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability. An attacker could exploit this issue by manipulating the DOM environment to execute malicious JavaScript within the context of the victim's browser. Exploitation of this issue requires user interaction in...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75630"
+  },
+  {
+   "id": "CVE-2026-75641",
+   "published": "2026-11-24T19:18:22+00:00",
+   "score": 5.4,
+   "severity": "MEDIUM",
+   "summary": "Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability. An attacker could exploit this issue by manipulating the DOM environment to execute malicious JavaScript within the context of the victim's browser. Exploitation of this issue requires user interaction in...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75641"
+  },
+  {
+   "id": "CVE-2026-75648",
+   "published": "2026-11-24T19:18:22+00:00",
+   "score": 5.4,
+   "severity": "MEDIUM",
+   "summary": "Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability. An attacker could exploit this issue by manipulating the DOM environment to execute malicious JavaScript within the context of the victim's browser. Exploitation of this issue requires user interaction in...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75648"
+  },
+  {
+   "id": "CVE-2026-75653",
+   "published": "2026-11-24T19:18:22+00:00",
+   "score": 5.4,
+   "severity": "MEDIUM",
+   "summary": "Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability. An attacker could exploit this issue by manipulating the DOM environment to execute malicious JavaScript within the context of the victim's browser. Exploitation of this issue requires user interaction in...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75653"
+  },
+  {
+   "id": "CVE-2026-75654",
+   "published": "2026-11-24T19:18:22+00:00",
+   "score": 5.4,
+   "severity": "MEDIUM",
+   "summary": "Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability. An attacker could exploit this issue by manipulating the DOM environment to execute malicious JavaScript within the context of the victim's browser. Exploitation of this issue requires user interaction in...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75654"
+  },
+  {
+   "id": "CVE-2026-75662",
+   "published": "2026-11-24T19:18:22+00:00",
+   "score": 5.4,
+   "severity": "MEDIUM",
+   "summary": "Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability. An attacker could exploit this issue by manipulating the DOM environment to execute malicious JavaScript within the context of the victim's browser. Exploitation of this issue requires user interaction in...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75662"
+  },
+  {
+   "id": "CVE-2026-48401",
+   "published": "2026-11-24T19:18:21+00:00",
+   "score": 5.4,
+   "severity": "MEDIUM",
+   "summary": "Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability. An attacker could exploit this issue by manipulating the DOM environment to execute malicious JavaScript within the context of the victim's browser. Exploitation of this issue requires user interaction in...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-48401"
+  },
+  {
+   "id": "CVE-2026-48403",
+   "published": "2026-11-24T19:18:21+00:00",
+   "score": 5.4,
+   "severity": "MEDIUM",
+   "summary": "Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability. An attacker could exploit this issue by manipulating the DOM environment to execute malicious JavaScript within the context of the victim's browser. Exploitation of this issue requires user interaction in...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-48403"
+  },
+  {
+   "id": "CVE-2026-4033",
+   "published": "2026-11-24T19:18:21+00:00",
+   "score": 6.9,
+   "severity": "MEDIUM",
+   "summary": "Improper neutralization of input during web page generation ('cross-site scripting') vulnerability in On EBX EBX. This issue affects EBX: from 6 before 6.1 and from 6 before 6.2.",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-4033"
+  },
+  {
+   "id": "CVE-2026-136440",
+   "published": "2026-11-24T19:18:20+00:00",
+   "score": 7.3,
+   "severity": "HIGH",
+   "summary": "Python Packaging Authority pip Configuration File Incorrect Permission Assignment Local Privilege Escalation Vulnerability. This vulnerability allows local attackers to escalate privileges on affected installations of Python Packaging Authority pip. An attacker must first obtain the ability to exec...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-136440"
+  },
+  {
+   "id": "CVE-2026-136441",
+   "published": "2026-11-24T19:18:20+00:00",
+   "score": 9.8,
+   "severity": "CRITICAL",
+   "summary": "Bytebase DBHub MCP Incorrect Authorization Authentication Bypass Vulnerability. This vulnerability allows remote attackers to bypass authentication on affected installations of Bytebase DBHub. Authentication is not required to exploit this vulnerability. The specific flaw exists within the implemen...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-136441"
+  },
+  {
+   "id": "CVE-2026-136442",
+   "published": "2026-11-24T19:18:20+00:00",
+   "score": 6.5,
+   "severity": "MEDIUM",
+   "summary": "BusyBox ftpd Directory Traversal Arbitrary File Read and Write Vulnerability. This vulnerability allows remote attackers to create or delete arbitrary files or disclose sensitive information on affected installations of BusyBox. Authentication is not required to exploit this vulnerability. The spec...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-136442"
+  },
+  {
+   "id": "CVE-2026-136432",
+   "published": "2026-11-24T19:18:19+00:00",
+   "score": 7.8,
+   "severity": "HIGH",
+   "summary": "PyTorch Foundation PyTorch FileSystemReader Deserialization of Untrusted Data Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of PyTorch. Interaction with this library is required to exploit this vulnerability but a...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-136432"
+  },
+  {
+   "id": "CVE-2026-136433",
+   "published": "2026-11-24T19:18:19+00:00",
+   "score": 7.8,
+   "severity": "HIGH",
+   "summary": "PyTorch Foundation PyTorch torch_save_to_dcp Deserialization of Untrusted Data Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of PyTorch Foundation PyTorch. User interaction is required to exploit this vulnerabilit...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-136433"
+  },
+  {
+   "id": "CVE-2026-136434",
+   "published": "2026-11-24T19:18:19+00:00",
+   "score": 9.8,
+   "severity": "CRITICAL",
+   "summary": "Super Magic PHPSandbox Command Injection Sandbox Escape Vulnerability. This vulnerability allows remote attackers to bypass the sandbox on affected installations of Super Magic. Authentication is not required to exploit this vulnerability. The specific flaw exists within the PHPSandbox endpoint. Th...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-136434"
+  },
+  {
+   "id": "CVE-2026-136435",
+   "published": "2026-11-24T19:18:19+00:00",
+   "score": 7.8,
+   "severity": "HIGH",
+   "summary": "DeepSpeed InferenceEngine Deserialization of Untrusted Data Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of DeepSpeed. User interaction is required to exploit this vulnerability in that the target must visit a ma...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-136435"
+  },
+  {
+   "id": "CVE-2026-136436",
+   "published": "2026-11-24T19:18:19+00:00",
+   "score": 7.8,
+   "severity": "HIGH",
+   "summary": "DeepSpeed torch_checkpoint_engine Deserialization of Untrusted Data Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of DeepSpeed. User interaction is required to exploit this vulnerability in that the target must vi...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-136436"
+  },
+  {
+   "id": "CVE-2026-136437",
+   "published": "2026-11-24T19:18:19+00:00",
+   "score": 7.8,
+   "severity": "HIGH",
+   "summary": "DeepSpeed parse_optim_states Deserialization of Untrusted Data Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of DeepSpeed. User interaction is required to exploit this vulnerability in that the target must visit a...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-136437"
+  },
+  {
+   "id": "CVE-2026-136438",
+   "published": "2026-11-24T19:18:19+00:00",
+   "score": 7.8,
+   "severity": "HIGH",
+   "summary": "DeepSpeed build_engine_from_ds_checkpoint Deserialization of Untrusted Data Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of DeepSpeed. User interaction is required to exploit this vulnerability in that the target...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-136438"
+  },
+  {
+   "id": "CVE-2026-136439",
+   "published": "2026-11-24T19:18:19+00:00",
+   "score": 7.8,
+   "severity": "HIGH",
+   "summary": "DeepSpeed _get_zero_stage Deserialization of Untrusted Data Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of DeepSpeed. User interaction is required to exploit this vulnerability in that the target must visit a ma...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-136439"
+  },
+  {
+   "id": "CVE-2026-136424",
+   "published": "2026-11-24T19:18:18+00:00",
+   "score": 7.8,
+   "severity": "HIGH",
+   "summary": "Soda PDF Desktop PDF File Parsing Memory Corruption Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of Soda PDF Desktop. User interaction is required to exploit this vulnerability in that the target must visit a mal...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-136424"
+  },
+  {
+   "id": "CVE-2026-136425",
+   "published": "2026-11-24T19:18:18+00:00",
+   "score": 7.8,
+   "severity": "HIGH",
+   "summary": "Soda PDF Desktop App Object Use-After-Free Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of Soda PDF Desktop. User interaction is required to exploit this vulnerability in that the target must visit a malicious pa...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-136425"
+  },
+  {
+   "id": "CVE-2026-136426",
+   "published": "2026-11-24T19:18:18+00:00",
+   "score": 7.8,
+   "severity": "HIGH",
+   "summary": "PyTorch Foundation PyTorch PT2 File Parsing Code Injection Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of PyTorch. Interaction with this library is required to exploit this vulnerability but attack vectors may v...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-136426"
+  },
+  {
+   "id": "CVE-2026-136427",
+   "published": "2026-11-24T19:18:18+00:00",
+   "score": 7.8,
+   "severity": "HIGH",
+   "summary": "PyTorch Foundation PyTorch AOTIModelPackageLoader Command Injection Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of PyTorch. Interaction with this library is required to exploit this vulnerability but attack vect...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-136427"
+  },
+  {
+   "id": "CVE-2026-136428",
+   "published": "2026-11-24T19:18:18+00:00",
+   "score": 7.8,
+   "severity": "HIGH",
+   "summary": "PyTorch Foundation PyTorch load_compiled_function Deserialization of Untrusted Data Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of PyTorch Foundation PyTorch. User interaction is required to exploit this vulnera...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-136428"
+  },
+  {
+   "id": "CVE-2026-136429",
+   "published": "2026-11-24T19:18:18+00:00",
+   "score": 7.0,
+   "severity": "HIGH",
+   "summary": "PyTorch Foundation PyTorch PT2 File Parsing Exposed Dangerous Method Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of PyTorch Foundation PyTorch. User interaction is required to exploit this vulnerability in that...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-136429"
+  },
+  {
+   "id": "CVE-2026-136430",
+   "published": "2026-11-24T19:18:18+00:00",
+   "score": 7.8,
+   "severity": "HIGH",
+   "summary": "PyTorch Foundation PyTorch AOTIModelPackageLoader Directory Traversal Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of PyTorch Foundation PyTorch. User interaction is required to exploit this vulnerability in that...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-136430"
+  },
+  {
+   "id": "CVE-2026-136431",
+   "published": "2026-11-24T19:18:18+00:00",
+   "score": 7.8,
+   "severity": "HIGH",
+   "summary": "PyTorch Foundation PyTorch load_state_dict_from_url Deserialization of Untrusted Data Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of PyTorch Foundation PyTorch. User interaction is required to exploit this vulne...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-136431"
+  },
+  {
+   "id": "CVE-2026-136411",
+   "published": "2026-11-24T19:18:17+00:00",
+   "score": 9.3,
+   "severity": "CRITICAL",
+   "summary": "BusyBox through 1.38.0 contains an absolute path traversal vulnerability in tftpd that allows unauthenticated remote attackers to access files outside any intended directory when started without a DIR argument. Attackers can send RRQ or WRQ packets with file names beginning with '/' to read sensiti...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-136411"
+  },
+  {
+   "id": "CVE-2026-136412",
+   "published": "2026-11-24T19:18:17+00:00",
+   "score": 9.2,
+   "severity": "CRITICAL",
+   "summary": "OpenResty stream-lua-nginx-module before 0.0.20rc4 contains a use-after-free vulnerability that allows remote peers to trigger access to freed memory when a receiveuntil() pattern iterator is garbage-collected while still referenced by the socket. Attackers can interrupt or close the cosocket conne...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-136412"
+  },
+  {
+   "id": "CVE-2026-136413",
+   "published": "2026-11-24T19:18:17+00:00",
+   "score": 6.8,
+   "severity": "MEDIUM",
+   "summary": "AppStream 0.14.5 before 1.2.3 contains an infinite loop vulnerability in asc_l10n_parse_data_qt() that allows attackers to hang compose runs by supplying unchecked tag lengths in Qt .qm files. Attackers can place a crafted .qm file with a 0xFFFFFFFB tag length, referenced by a component's qt transl...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-136413"
+  },
+  {
+   "id": "CVE-2026-136414",
+   "published": "2026-11-24T19:18:17+00:00",
+   "score": 6.8,
+   "severity": "MEDIUM",
+   "summary": "AppStream 0.14.5 before 1.2.3 contains a division by zero vulnerability in asc_read_translation_status() in compose/asc-utils-l10n.c that allows attackers to crash compose runs via crafted Qt .qm files. Attackers can supply a valid .qm file with no TRANSLATION records, triggering SIGFPE that termin...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-136414"
+  },
+  {
+   "id": "CVE-2026-136421",
+   "published": "2026-11-24T19:18:17+00:00",
+   "score": 6.4,
+   "severity": "MEDIUM",
+   "summary": "rocket.chat Server-Side Request Forgery Information Disclosure Vulnerability. This vulnerability allows remote attackers to disclose sensitive information on affected installations of rocket.chat. Authentication is required to exploit this vulnerability. The specific flaw exists within the web serv...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-136421"
+  },
+  {
+   "id": "CVE-2026-136422",
+   "published": "2026-11-24T19:18:17+00:00",
+   "score": 7.8,
+   "severity": "HIGH",
+   "summary": "Soda PDF Desktop PDF File Parsing Memory Corruption Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of Soda PDF Desktop. User interaction is required to exploit this vulnerability in that the target must visit a mal...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-136422"
+  },
+  {
+   "id": "CVE-2026-136423",
+   "published": "2026-11-24T19:18:17+00:00",
+   "score": 7.8,
+   "severity": "HIGH",
+   "summary": "Soda PDF Desktop PDF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of Soda PDF Desktop. User interaction is required to exploit this vulnerability in that the target must visit a m...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-136423"
+  },
+  {
+   "id": "CVE-2026-136404",
+   "published": "2026-11-24T19:18:16+00:00",
+   "score": 9.3,
+   "severity": "CRITICAL",
+   "summary": "ntop n2n supernode 3.0 through 3.1.1 contains a stack-based buffer overflow vulnerability that allows remote unauthenticated attackers to leak memory and execute code by sending an untrusted 16-bit auth token_size in REGISTER_SUPER_NAK datagrams. Attackers can register an edge in a chosen community...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-136404"
+  },
+  {
+   "id": "CVE-2026-136406",
+   "published": "2026-11-24T19:18:16+00:00",
+   "score": 5.1,
+   "severity": "MEDIUM",
+   "summary": "Canvas 7.0.0 before 7.2.11 contains a stored cross-site scripting vulnerability that allows authenticated Contributors to inject scripts by exploiting a libxml2 parser differential in PostBody::clean(). Attackers can publish posts with slash-separated event handler attributes rendered unescaped in...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-136406"
+  },
+  {
+   "id": "CVE-2026-136407",
+   "published": "2026-11-24T19:18:16+00:00",
+   "score": 5.3,
+   "severity": "MEDIUM",
+   "summary": "Marley through 16.8.1 contains an authorization bypass vulnerability that allows authenticated patient-portal users to create payment records against other patients' documents by supplying arbitrary patient and docname values. Attackers can call the get_payment_link endpoint, which saves Healthcare...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-136407"
+  },
+  {
+   "id": "CVE-2026-136408",
+   "published": "2026-11-24T19:18:16+00:00",
+   "score": 5.3,
+   "severity": "MEDIUM",
+   "summary": "Obtainium before 1.7.5 contains a path traversal vulnerability that allows remote attackers to write or delete JSON files outside app_data by supplying an app id containing ../ sequences. Attackers can serve an obtainium://app deep link with a crafted id that, once imported, overwrites other app co...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-136408"
+  },
+  {
+   "id": "CVE-2026-136409",
+   "published": "2026-11-24T19:18:16+00:00",
+   "score": 6.0,
+   "severity": "MEDIUM",
+   "summary": "Obtainium before 1.7.5 trusts the allowIdChange field in imported app data, allowing attackers to bypass the package ID mismatch check by delivering crafted obtainium://app deep links. Once a victim confirms the import, attackers can silently replace a tracked app with an attacker-controlled source...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-136409"
+  },
+  {
+   "id": "CVE-2026-136410",
+   "published": "2026-11-24T19:18:16+00:00",
+   "score": 9.5,
+   "severity": "CRITICAL",
+   "summary": "Thymeleaf before 3.1.6.RELEASE contains a restricted expression mode bypass vulnerability that allows unauthenticated remote attackers to perform forbidden actions through improperly scoped expression objects. Attackers can inject input into restricted contexts like preprocessing, th:utext, th:on*...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-136410"
+  },
+  {
+   "id": "CVE-2026-135794",
+   "published": "2026-11-24T19:18:14+00:00",
+   "score": 8.6,
+   "severity": "HIGH",
+   "summary": "A vulnerability was determined in Panabit Smart Application Gateway TANGr7p10. The affected element is the function add_crontab of the file admin/cgi-bin/sac/ajax_sac_crontab of the component SAC. Executing a manipulation of the argument cmd can lead to code injection. The attack can be executed re...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135794"
+  },
+  {
+   "id": "CVE-2026-135796",
+   "published": "2026-11-24T19:18:14+00:00",
+   "score": 8.6,
+   "severity": "HIGH",
+   "summary": "A vulnerability was determined in Volans NGFW Next-Generation Firewall r5.1. This issue affects the function exec/system of the file modules/assets/port_serve_scan.mds of the component Web Management UI. This manipulation of the argument task_name/where/path causes os command injection. Remote expl...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135796"
+  },
+  {
+   "id": "CVE-2026-135797",
+   "published": "2026-11-24T19:18:14+00:00",
+   "score": 9.3,
+   "severity": "CRITICAL",
+   "summary": "A vulnerability was identified in Volans NGFW Next-Generation Firewall r5.1. Impacted is the function exec of the file sslvpn/sslvpn_client.php of the component SSLVPN Client. Such manipulation of the argument img leads to os command injection. The attack can be executed remotely. The exploit is pu...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135797"
+  },
+  {
+   "id": "CVE-2026-135798",
+   "published": "2026-11-24T19:18:14+00:00",
+   "score": 5.5,
+   "severity": "MEDIUM",
+   "summary": "A security flaw has been discovered in Volans NGFW Next-Generation Firewall r5.1. The affected element is an unknown function of the file include/sqlite3.inc of the component Web Management Interface. Performing a manipulation results in sql injection. The attack is possible to be carried out remot...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135798"
+  },
+  {
+   "id": "CVE-2026-135614",
+   "published": "2026-11-24T19:18:13+00:00",
+   "score": 6.8,
+   "severity": "MEDIUM",
+   "summary": "Improper removal of sensitive information in the troubleshooting tool in the Amazon ECS MCP Server (awslabs.ecs-mcp-server) before 0.1.36 might allow a remote actor who can influence the agent's input to obtain cleartext container environment variable values and secret references from ECS task defi...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135614"
+  },
+  {
+   "id": "CVE-2026-134716",
+   "published": "2026-11-24T19:18:11+00:00",
+   "score": 8.8,
+   "severity": "HIGH",
+   "summary": "Cross-Site Request Forgery (CSRF) vulnerability in Mahmudul Hasan Arif Ninja Charts ninja-charts allows Cross Site Request Forgery.This issue affects Ninja Charts: from n/a through 3.5.0.",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-134716"
+  },
+  {
+   "id": "CVE-2026-134986",
+   "published": "2026-11-24T19:18:11+00:00",
+   "score": 8.8,
+   "severity": "HIGH",
+   "summary": "Cross-Site Request Forgery (CSRF) vulnerability in Brainstorm Force SureCart surecart allows Cross Site Request Forgery.This issue affects SureCart: from n/a through 4.13.1.",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-134986"
+  },
+  {
+   "id": "CVE-2026-133934",
+   "published": "2026-11-24T19:18:10+00:00",
+   "score": null,
+   "severity": null,
+   "summary": "Improper authentication in the passkey signing service in Devolutions Remote Desktop Manager 2026.3.18.0 and earlier allows a local attacker to list and use the passkeys of another user via a pre-created legacy named pipe.",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-133934"
+  },
+  {
+   "id": "CVE-2026-134066",
+   "published": "2026-11-24T19:18:10+00:00",
+   "score": 8.5,
+   "severity": "HIGH",
+   "summary": "Improper neutralization of special elements in data query logic in the query construction of AWS Graph Explorer before 3.2.1 might allow an authenticated remote user with write access to the connected graph database to access and modify data in that database with Graph Explorer's privileges via a c...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-134066"
+  },
+  {
+   "id": "CVE-2026-134068",
+   "published": "2026-11-24T19:18:10+00:00",
+   "score": 7.7,
+   "severity": "HIGH",
+   "summary": "A stack-based buffer overflow in the replication origin name parsing component in AWS pgactive before 2.1.10 might allow an authenticated remote user to execute arbitrary operating system commands as the database operating system user via a crafted replication origin name. To remediate this issue,...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-134068"
+  },
+  {
+   "id": "CVE-2026-134715",
+   "published": "2026-11-24T19:18:10+00:00",
+   "score": 5.3,
+   "severity": "MEDIUM",
+   "summary": "Missing Authorization vulnerability in Webful Creations RepairBuddy computer-repair-shop allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects RepairBuddy: from n/a through 4.1237.",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-134715"
+  },
+  {
+   "id": "CVE-2026-132877",
+   "published": "2026-11-24T19:18:09+00:00",
+   "score": 9.9,
+   "severity": "CRITICAL",
+   "summary": "Adobe Experience Manager is affected by an Improper Control of Generation of Code ('Code Injection') vulnerability that could result in arbitrary code execution in the context of the current user. A low-privileged attacker could exploit this vulnerability to execute arbitrary code. Exploitation of...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132877"
+  },
+  {
+   "id": "CVE-2026-133865",
+   "published": "2026-11-24T19:18:09+00:00",
+   "score": null,
+   "severity": null,
+   "summary": "Path traversal in the Microsoft VPN entry in Devolutions Remote Desktop Manager 2026.3.18.0 and earlier allows an attacker to write arbitrary files outside the intended directory via a crafted .rdm file imported by a user.",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-133865"
+  },
+  {
+   "id": "CVE-2026-129959",
+   "published": "2026-11-24T19:18:08+00:00",
+   "score": 8.8,
+   "severity": "HIGH",
+   "summary": "When sftpEnabled=true (the default configuration in etc/org.apache.karaf.shell.cfg), the SSH server exposes the karaf.base directory tree through the MINA SSHD SFTP subsystem and SCP command factory without verifying the authenticated user's roles beyond the initial sshRole login check. Consequentl...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-129959"
+  },
+  {
+   "id": "CVE-2026-130171",
+   "published": "2026-11-24T19:18:08+00:00",
+   "score": 6.8,
+   "severity": "MEDIUM",
+   "summary": "AutoGPT is a workflow automation platform for creating, deploying, and managing continuous artificial intelligence agents. In versions 0.6.5 through 0.10.0, marketplace and shared agents can capture a user's saved SMTP or database login. SendEmailBlock and SQLQueryBlock logged in with the running u...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-130171"
+  },
+  {
+   "id": "CVE-2026-129317",
+   "published": "2026-11-24T19:18:06+00:00",
+   "score": 5.9,
+   "severity": "MEDIUM",
+   "summary": "AutoGPT is a workflow automation platform for creating, deploying, and managing continuous artificial intelligence agents. In versions 0.6.41 through 0.11.1, the OAuth provider endpoints check a calling application's client secret against a scrypt hash synchronously on the REST API event loop. Anyo...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-129317"
+  },
+  {
+   "id": "CVE-2026-123264",
+   "published": "2026-11-24T19:18:04+00:00",
+   "score": 5.4,
+   "severity": "MEDIUM",
+   "summary": "Adobe Experience Manager is affected by a stored Cross-Site Scripting (XSS) vulnerability that could be abused by a low-privileged attacker to inject malicious scripts into vulnerable form fields. Malicious JavaScript may be executed in a victim's browser when they browse to the page containing the...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123264"
+  },
+  {
+   "id": "CVE-2026-123266",
+   "published": "2026-11-24T19:18:04+00:00",
+   "score": 9.9,
+   "severity": "CRITICAL",
+   "summary": "Adobe Experience Manager is affected by an Improper Control of Generation of Code ('Code Injection') vulnerability that could result in arbitrary code execution in the context of the current user. A low-privileged attacker could exploit this vulnerability to execute arbitrary code. Exploitation of...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123266"
+  },
+  {
+   "id": "CVE-2026-124324",
+   "published": "2026-11-24T19:18:04+00:00",
+   "score": null,
+   "severity": null,
+   "summary": "A vulnerability in Apache Jena Fuseki allows SERVICE operations to bypass restrictions on administration operations. This issue affects Apache Jena Fuseki: from through 6.2.0. Users are recommended to upgrade to version 6.3.0, which fixes the issue.",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-124324"
+  },
+  {
+   "id": "CVE-2026-123251",
+   "published": "2026-11-24T19:18:03+00:00",
+   "score": 5.4,
+   "severity": "MEDIUM",
+   "summary": "Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability. An attacker could exploit this issue by manipulating the DOM environment to execute malicious JavaScript within the context of the victim's browser. Exploitation of this issue requires user interaction in...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123251"
   }
  ],
  "kev": [
+  {
+   "id": "CVE-2026-132224",
+   "vendor": "Optimizely",
+   "product": "Web Experimentation",
+   "name": "Optimizely Web Experimentation External Control of Critical State Data Vulnerability",
+   "added": "2026-11-24",
+   "due": "2026-11-27",
+   "ransomware": false,
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132224"
+  },
+  {
+   "id": "CVE-2026-131914",
+   "vendor": "Idunno",
+   "product": "AntiCsrf",
+   "name": "Idunno AntiCsrf Deserialization of Untrusted Data Vulnerability",
+   "added": "2026-11-24",
+   "due": "2026-11-27",
+   "ransomware": false,
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-131914"
+  },
+  {
+   "id": "CVE-2026-132165",
+   "vendor": "Drupal",
+   "product": "Core",
+   "name": "Drupal Core Remote Code Execution Vulnerability",
+   "added": "2026-11-24",
+   "due": "2026-11-27",
+   "ransomware": false,
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-132165"
+  },
   {
    "id": "CVE-2026-133968",
    "vendor": "Project MONAI",
@@ -2517,39 +2547,149 @@
    "due": "2026-10-26",
    "ransomware": false,
    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-114625"
-  },
-  {
-   "id": "CVE-2026-110447",
-   "vendor": "Collabora",
-   "product": "Collabora Online – Built-in CODE Server",
-   "name": "Collabora Online – Built-in CODE Server OS Command Injection Vulnerability",
-   "added": "2026-10-23",
-   "due": "2026-10-26",
-   "ransomware": false,
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-110447"
-  },
-  {
-   "id": "CVE-2026-106931",
-   "vendor": "EG Secure Solutions",
-   "product": "SiteGuard Server Edition",
-   "name": "EG Secure Solutions SiteGuard Server Edition OS Command Injection Vulnerability",
-   "added": "2026-10-20",
-   "due": "2026-10-23",
-   "ransomware": false,
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-106931"
-  },
-  {
-   "id": "CVE-2026-96656",
-   "vendor": "Plex",
-   "product": "Media Server",
-   "name": "Plex Media Server External Control of File Name or Path Vulnerability",
-   "added": "2026-10-20",
-   "due": "2026-10-23",
-   "ransomware": false,
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-96656"
   }
  ],
  "ransomware": [
+  {
+   "victim": "Steinecke",
+   "group": "thegentlemen",
+   "country": "DE",
+   "sector": "Manufacturing",
+   "date": "2026-11-24T18:55:46+00:00"
+  },
+  {
+   "victim": "Berkeley orinda Oral Surgery",
+   "group": "thegentlemen",
+   "country": "US",
+   "sector": "Healthcare",
+   "date": "2026-11-24T18:55:25+00:00"
+  },
+  {
+   "victim": "TC Industries",
+   "group": "thegentlemen",
+   "country": "US",
+   "sector": "Manufacturing",
+   "date": "2026-11-24T18:55:04+00:00"
+  },
+  {
+   "victim": "Arendal",
+   "group": "thegentlemen",
+   "country": "MX",
+   "sector": "Other",
+   "date": "2026-11-24T18:54:43+00:00"
+  },
+  {
+   "victim": "Cimmino",
+   "group": "thegentlemen",
+   "country": "IT",
+   "sector": "Other",
+   "date": "2026-11-24T18:54:22+00:00"
+  },
+  {
+   "victim": "New Teeth Now",
+   "group": "thegentlemen",
+   "country": "US",
+   "sector": "Healthcare",
+   "date": "2026-11-24T18:54:02+00:00"
+  },
+  {
+   "victim": "Nuova PSC",
+   "group": "thegentlemen",
+   "country": "IT",
+   "sector": "Professional Services",
+   "date": "2026-11-24T18:53:41+00:00"
+  },
+  {
+   "victim": "Mechanix Wear",
+   "group": "thegentlemen",
+   "country": "US",
+   "sector": "Retail & E-Commerce",
+   "date": "2026-11-24T18:53:20+00:00"
+  },
+  {
+   "victim": "University Goce Delcev At Stip",
+   "group": "thegentlemen",
+   "country": "MK",
+   "sector": "Education",
+   "date": "2026-11-24T18:52:39+00:00"
+  },
+  {
+   "victim": "Groupe Gagneraud",
+   "group": "thegentlemen",
+   "country": "FR",
+   "sector": "Manufacturing",
+   "date": "2026-11-24T18:52:18+00:00"
+  },
+  {
+   "victim": "HT Global Circuits",
+   "group": "thegentlemen",
+   "country": "TW",
+   "sector": "Manufacturing",
+   "date": "2026-11-24T18:51:57+00:00"
+  },
+  {
+   "victim": "Innovation Industries, Inc.",
+   "group": "aurora",
+   "country": "",
+   "sector": "Other",
+   "date": "2026-11-24T17:42:27+00:00"
+  },
+  {
+   "victim": "WHI Holdings / Works Human Intelligence",
+   "group": "incransom",
+   "country": "US",
+   "sector": "Professional Services",
+   "date": "2026-11-24T17:10:18+00:00"
+  },
+  {
+   "victim": "A... G...",
+   "group": "SilentRansomGroup",
+   "country": "",
+   "sector": "Not Found",
+   "date": "2026-11-24T17:00:21+00:00"
+  },
+  {
+   "victim": "Liftstar GmbH",
+   "group": "aurora",
+   "country": "DE",
+   "sector": "Manufacturing",
+   "date": "2026-11-24T14:58:35+00:00"
+  },
+  {
+   "victim": "G... R... S... D...",
+   "group": "SilentRansomGroup",
+   "country": "",
+   "sector": "Not Found",
+   "date": "2026-11-24T14:57:06+00:00"
+  },
+  {
+   "victim": "Rilievi Group",
+   "group": "Eclipse",
+   "country": "IT",
+   "sector": "Other",
+   "date": "2026-11-24T14:51:33+00:00"
+  },
+  {
+   "victim": "Lambert Somec",
+   "group": "secp0",
+   "country": "IT",
+   "sector": "Manufacturing",
+   "date": "2026-11-24T14:41:05+00:00"
+  },
+  {
+   "victim": "Old Dominion University",
+   "group": "qilin",
+   "country": "US",
+   "sector": "Education",
+   "date": "2026-11-24T14:39:43+00:00"
+  },
+  {
+   "victim": "fiwealth.com",
+   "group": "incransom",
+   "country": "US",
+   "sector": "Financial Services",
+   "date": "2026-11-24T11:39:16+00:00"
+  },
   {
    "victim": "Mayerhofer Hoch-, Tief- und Ingenieurbau GmbH",
    "group": "qilin",
@@ -2824,154 +2964,14 @@
    "date": "2026-11-23T04:42:57+00:00"
   },
   {
-   "victim": "www.suzlon.com",
-   "group": "blackout",
-   "country": "IN",
-   "sector": "Energy & Utilities",
-   "date": "2026-11-23T04:24:56+00:00"
-  },
-  {
    "victim": "FULL RELEASE — CLINIC SAGRADA FAMILIA(ARMENIA) , CASANARE, PAJONAL, PUTUMAYO AND URUS (NEI...",
    "group": "Whitearmor",
    "country": "CO",
    "sector": "Healthcare",
    "date": "2026-11-23T04:21:14+00:00"
-  },
-  {
-   "victim": "Company #268",
-   "group": "N0n",
-   "country": "US",
-   "sector": "Not Found",
-   "date": "2026-11-23T04:11:39+00:00"
-  },
-  {
-   "victim": "Company #267",
-   "group": "N0n",
-   "country": "GB",
-   "sector": "Not Found",
-   "date": "2026-11-23T04:11:00+00:00"
-  },
-  {
-   "victim": "Company #266",
-   "group": "N0n",
-   "country": "US",
-   "sector": "Not Found",
-   "date": "2026-11-23T04:10:21+00:00"
-  },
-  {
-   "victim": "Company #265",
-   "group": "N0n",
-   "country": "FR",
-   "sector": "Not Found",
-   "date": "2026-11-23T04:09:41+00:00"
-  },
-  {
-   "victim": "Company #264",
-   "group": "N0n",
-   "country": "US",
-   "sector": "Not Found",
-   "date": "2026-11-23T04:09:02+00:00"
-  },
-  {
-   "victim": "Company #263",
-   "group": "N0n",
-   "country": "US",
-   "sector": "Not Found",
-   "date": "2026-11-23T04:08:23+00:00"
-  },
-  {
-   "victim": "Company #262",
-   "group": "N0n",
-   "country": "DK",
-   "sector": "Not Found",
-   "date": "2026-11-23T04:07:44+00:00"
-  },
-  {
-   "victim": "Company #261",
-   "group": "N0n",
-   "country": "US",
-   "sector": "Not Found",
-   "date": "2026-11-23T04:07:05+00:00"
-  },
-  {
-   "victim": "Company #260",
-   "group": "N0n",
-   "country": "",
-   "sector": "Not Found",
-   "date": "2026-11-23T04:06:26+00:00"
-  },
-  {
-   "victim": "Company #259",
-   "group": "N0n",
-   "country": "IL",
-   "sector": "Not Found",
-   "date": "2026-11-23T04:05:46+00:00"
-  },
-  {
-   "victim": "Company #258",
-   "group": "N0n",
-   "country": "US",
-   "sector": "Not Found",
-   "date": "2026-11-23T04:05:02+00:00"
-  },
-  {
-   "victim": "Company #257",
-   "group": "N0n",
-   "country": "",
-   "sector": "Not Found",
-   "date": "2026-11-23T04:04:24+00:00"
-  },
-  {
-   "victim": "Company #256",
-   "group": "N0n",
-   "country": "US",
-   "sector": "Not Found",
-   "date": "2026-11-23T04:03:44+00:00"
-  },
-  {
-   "victim": "Company #255",
-   "group": "N0n",
-   "country": "US",
-   "sector": "Not Found",
-   "date": "2026-11-23T04:03:05+00:00"
-  },
-  {
-   "victim": "Company #254",
-   "group": "N0n",
-   "country": "GB",
-   "sector": "Not Found",
-   "date": "2026-11-23T04:02:24+00:00"
-  },
-  {
-   "victim": "Company #253",
-   "group": "N0n",
-   "country": "US",
-   "sector": "Not Found",
-   "date": "2026-11-23T04:01:45+00:00"
-  },
-  {
-   "victim": "Company #252",
-   "group": "N0n",
-   "country": "US",
-   "sector": "Not Found",
-   "date": "2026-11-23T04:01:07+00:00"
-  },
-  {
-   "victim": "Company #251",
-   "group": "N0n",
-   "country": "US",
-   "sector": "Not Found",
-   "date": "2026-11-23T04:00:28+00:00"
-  },
-  {
-   "victim": "Company #250",
-   "group": "N0n",
-   "country": "GB",
-   "sector": "Not Found",
-   "date": "2026-11-23T03:59:49+00:00"
   }
  ],
- "cve_total_48h": 891,
+ "cve_total_48h": 1283,
  "errors": {},
- "updated": "2026-11-24T14:56:12+00:00"
+ "updated": "2026-11-24T23:55:35+00:00"
 }
