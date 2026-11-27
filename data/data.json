@@ -2551,6 +2551,62 @@
  ],
  "ransomware": [
   {
+   "victim": "Eversource",
+   "group": "Whitearmor",
+   "country": "US",
+   "sector": "Energy & Utilities",
+   "date": "2026-11-26T23:33:19+00:00"
+  },
+  {
+   "victim": "Monolithic Power Systems (NASDAQ: MPWR, mps.com)",
+   "group": "PixelLeaks",
+   "country": "US",
+   "sector": "Technology",
+   "date": "2026-11-26T23:32:02+00:00"
+  },
+  {
+   "victim": "Keyes Financial Strategies Inc.",
+   "group": "PixelLeaks",
+   "country": "",
+   "sector": "Financial Services",
+   "date": "2026-11-26T23:31:41+00:00"
+  },
+  {
+   "victim": "The Law Firm of Kavesh, Minor & Otis, Inc.",
+   "group": "PixelLeaks",
+   "country": "CA",
+   "sector": "Professional Services",
+   "date": "2026-11-26T23:31:21+00:00"
+  },
+  {
+   "victim": "MHC Financial Inc",
+   "group": "PixelLeaks",
+   "country": "US",
+   "sector": "Financial Services",
+   "date": "2026-11-26T23:31:01+00:00"
+  },
+  {
+   "victim": "LockeBridge Capital Partners",
+   "group": "PixelLeaks",
+   "country": "",
+   "sector": "Financial Services",
+   "date": "2026-11-26T23:30:41+00:00"
+  },
+  {
+   "victim": "babaiai",
+   "group": "medusalocker",
+   "country": "",
+   "sector": "Technology",
+   "date": "2026-11-26T22:54:41+00:00"
+  },
+  {
+   "victim": "FYE",
+   "group": "anubis",
+   "country": "US",
+   "sector": "Retail & E-Commerce",
+   "date": "2026-11-26T21:22:20+00:00"
+  },
+  {
    "victim": "GoDaddy",
    "group": "Inception",
    "country": "US",
@@ -2913,65 +2969,11 @@
    "country": "DE",
    "sector": "Not Found",
    "date": "2026-11-25T13:54:52+00:00"
-  },
-  {
-   "victim": "Company #280",
-   "group": "N0n",
-   "country": "US",
-   "sector": "Not Found",
-   "date": "2026-11-25T13:54:13+00:00"
-  },
-  {
-   "victim": "Company #279",
-   "group": "N0n",
-   "country": "NO",
-   "sector": "Not Found",
-   "date": "2026-11-25T13:53:34+00:00"
-  },
-  {
-   "victim": "Company #278",
-   "group": "N0n",
-   "country": "US",
-   "sector": "Not Found",
-   "date": "2026-11-25T13:52:56+00:00"
-  },
-  {
-   "victim": "Company #277",
-   "group": "N0n",
-   "country": "US",
-   "sector": "Not Found",
-   "date": "2026-11-25T13:52:18+00:00"
-  },
-  {
-   "victim": "Jacksonville University",
-   "group": "qilin",
-   "country": "US",
-   "sector": "Education",
-   "date": "2026-11-25T12:22:31+00:00"
-  },
-  {
-   "victim": "Bethany Lutheran College",
-   "group": "qilin",
-   "country": "US",
-   "sector": "Education",
-   "date": "2026-11-25T12:21:51+00:00"
-  },
-  {
-   "victim": "Company #276",
-   "group": "N0n",
-   "country": "US",
-   "sector": "Not Found",
-   "date": "2026-11-25T10:52:17+00:00"
-  },
-  {
-   "victim": "Company #275",
-   "group": "N0n",
-   "country": "BJ",
-   "sector": "Not Found",
-   "date": "2026-11-25T09:59:57+00:00"
   }
  ],
  "cve_total_48h": 1221,
- "errors": {},
- "updated": "2026-11-26T22:23:55+00:00"
+ "errors": {
+  "cves": "HTTP Error 503: Service Unavailable"
+ },
+ "updated": "2026-11-27T05:05:59+00:00"
 }
