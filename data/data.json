@@ -547,6 +547,222 @@
  ],
  "cves": [
   {
+   "id": "CVE-2026-112232",
+   "published": "2026-11-28T06:16:42+00:00",
+   "score": null,
+   "severity": null,
+   "summary": "The Popup Builder WordPress plugin through 4.4.6 does not properly sanitize and escape a popup shortcode attribute before it is reflected into a page and evaluated client-side, allowing users with the Contributor role and above to inject arbitrary JavaScript that executes in the session of any high...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-112232"
+  },
+  {
+   "id": "CVE-2026-112233",
+   "published": "2026-11-28T06:16:42+00:00",
+   "score": null,
+   "severity": null,
+   "summary": "The Popup Builder WordPress plugin through 4.4.6 does not check the publish status or the visitor's capabilities before rendering a popup requested by its ID in the URL, allowing unauthenticated users to read the content and configuration of popups that are still drafts or are marked private.",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-112233"
+  },
+  {
+   "id": "CVE-2026-112234",
+   "published": "2026-11-28T06:16:42+00:00",
+   "score": null,
+   "severity": null,
+   "summary": "The Popup Builder WordPress plugin through 4.4.6 does not validate a user-supplied URL before requesting it server-side and storing the fetched response so that it can be read back, allowing users with Administrator privileges to perform Server-Side Request Forgery (SSRF) attacks and read the respo...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-112234"
+  },
+  {
+   "id": "CVE-2026-112235",
+   "published": "2026-11-28T06:16:42+00:00",
+   "score": null,
+   "severity": null,
+   "summary": "The Popup Builder WordPress plugin through 4.4.6 does not properly check authorization before allowing a user to store popup preview data against arbitrary posts, nor restrict who can read that content back on public requests, allowing users granted access to the Popup Builder WordPress plugin thro...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-112235"
+  },
+  {
+   "id": "CVE-2026-123654",
+   "published": "2026-11-28T06:16:42+00:00",
+   "score": null,
+   "severity": null,
+   "summary": "Themify Base WordPress theme through 1.2.4 does not perform capability checks on its option save and read AJAX actions, which are protected only by a generic nonce that other commonly expose on the front end, allowing users with a role as low as Subscriber to update arbitrary blog options such as t...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123654"
+  },
+  {
+   "id": "CVE-2026-112231",
+   "published": "2026-11-28T06:16:40+00:00",
+   "score": null,
+   "severity": null,
+   "summary": "The Popup Builder WordPress plugin through 4.4.6 does not sanitise or escape a custom styling value before storing it and printing it back into the pages a popup loads on, allowing users who are allowed to manage popups (an ability that can be delegated to lower-privileged roles) to inject JavaScri...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-112231"
+  },
+  {
+   "id": "CVE-2026-138161",
+   "published": "2026-11-28T03:17:08+00:00",
+   "score": 8.5,
+   "severity": "HIGH",
+   "summary": "Gammu before 1.45.2 contains a buffer overflow vulnerability in LoadBackup() that allows attackers to corrupt memory by supplying an overlong MD5 value in a crafted backup file. Attackers can overwrite adjacent phonebook and calendar entry pointers via strcpy() into MD5Original when files are loade...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-138161"
+  },
+  {
+   "id": "CVE-2026-138162",
+   "published": "2026-11-28T03:17:08+00:00",
+   "score": 7.3,
+   "severity": "HIGH",
+   "summary": "Gammu before 1.45.2 contains a stack-based buffer overflow vulnerability in ALCATEL_EncodeString() that allows attackers to overwrite stack memory via oversized encoded phonebook text. Attackers can supply a crafted backup restored with gammu restore or addnew to an attached Alcatel phone, using GS...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-138162"
+  },
+  {
+   "id": "CVE-2026-138163",
+   "published": "2026-11-28T03:17:08+00:00",
+   "score": 8.5,
+   "severity": "HIGH",
+   "summary": "Gammu before 1.45.2 contains a heap-based buffer overflow in ReadWAPSettingsEntry() that allows attackers to corrupt heap memory via crafted backup files with excess WAP or MMS settings entries. Attackers can supply a backup with more than four TitleNN keys in a [WAPSettings] or [MMSSettings] secti...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-138163"
+  },
+  {
+   "id": "CVE-2026-138164",
+   "published": "2026-11-28T03:17:08+00:00",
+   "score": 4.8,
+   "severity": "MEDIUM",
+   "summary": "Gammu before 1.45.2 contains a stack-based buffer overflow vulnerability in SaveBackupText() in backtext.c that allows attackers to corrupt stack memory by supplying long text fields. Attackers can craft a backup with long calendar or note fields that, when converted with gammu convertbackup, write...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-138164"
+  },
+  {
+   "id": "CVE-2026-138158",
+   "published": "2026-11-28T03:17:07+00:00",
+   "score": 7.0,
+   "severity": "HIGH",
+   "summary": "libgphoto2 through 2.5.34 contains a stack buffer overflow in sierra_get_string_register() that lets a malicious sierra-protocol camera or USB device overwrite stack memory. When files are listed, the device can answer the file-name register with an oversized packet, writing up to 32 KB past small...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-138158"
+  },
+  {
+   "id": "CVE-2026-138159",
+   "published": "2026-11-28T03:17:07+00:00",
+   "score": 7.7,
+   "severity": "HIGH",
+   "summary": "edbrowse through 3.8.19 contains an integer overflow in stringAndBytes() that allows malicious servers to write past a heap buffer by sending response bodies larger than 2 GB. When a user browses to an attacker-controlled HTTP, FTP, or gopher server, the oversized body skips reallocation and corrup...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-138159"
+  },
+  {
+   "id": "CVE-2026-138160",
+   "published": "2026-11-28T03:17:07+00:00",
+   "score": 8.5,
+   "severity": "HIGH",
+   "summary": "Gammu before 1.45.2 contains a stack-based buffer overflow vulnerability in ReadBackupTextLen() that allows attackers to overwrite stack memory via crafted backup files. Attackers can supply overlong quoted text values decoded into a 10,000-byte stack array during convertbackup, restore, or GSM_Rea...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-138160"
+  },
+  {
+   "id": "CVE-2026-138154",
+   "published": "2026-11-28T03:17:06+00:00",
+   "score": 9.3,
+   "severity": "CRITICAL",
+   "summary": "POSTAL 2 before build 26810491 contains a sandbox escape vulnerability that allows malicious Steam Workshop mods to execute code by calling ConsoleCommand with a start file URI. Attackers can ship a batch file in a mod at the predictable workshop install path and launch it via ShellExecuteW, execut...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-138154"
+  },
+  {
+   "id": "CVE-2026-138153",
+   "published": "2026-11-28T02:17:35+00:00",
+   "score": 5.3,
+   "severity": "MEDIUM",
+   "summary": "Otter – Page Builder Blocks & Extensions for Gutenberg before 3.2.12 contains an incorrect authorization vulnerability in the Posts Grid block and Atomic Wind query loop that allows Contributor-level attackers to read non-public post type entries. Attackers can set the postTypes or queryPostType bl...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-138153"
+  },
+  {
+   "id": "CVE-2026-138122",
+   "published": "2026-11-28T02:17:34+00:00",
+   "score": 2.3,
+   "severity": "LOW",
+   "summary": "ClassroomIO through 1.0.0 contains an insecure direct object reference vulnerability that allows authenticated course members to access other tenants' newsfeed posts by supplying a foreign feedId under their own courseId. Attackers can read, react to, and comment on cross-organization posts, while...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-138122"
+  },
+  {
+   "id": "CVE-2026-138148",
+   "published": "2026-11-28T02:17:34+00:00",
+   "score": 6.9,
+   "severity": "MEDIUM",
+   "summary": "picomatch through 4.0.7 contains a glob filter bypass vulnerability because globstar (**) patterns are compiled without the dotAll flag and fail to match line terminators. Attackers who control file, object key or archive entry names containing newline characters can evade ** deny patterns, causing...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-138148"
+  },
+  {
+   "id": "CVE-2026-138149",
+   "published": "2026-11-28T02:17:34+00:00",
+   "score": 5.3,
+   "severity": "MEDIUM",
+   "summary": "FeatBit before 6.1.3 contains an authorization bypass vulnerability that allows authenticated members of one organization to read other organizations' segments by supplying foreign segment identifiers. Attackers can query the SegmentController segment, by-ids, and flag-references endpoints with the...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-138149"
+  },
+  {
+   "id": "CVE-2026-138150",
+   "published": "2026-11-28T02:17:34+00:00",
+   "score": 6.8,
+   "severity": "MEDIUM",
+   "summary": "SimGear through 2024.1.7 contains an infinite loop vulnerability in sgSimpleBuffer::resize() where an unsigned 32-bit wraparound in the size-doubling loop leaves the size at zero. Attackers can supply a crafted .btg scenery file with an oversized byte count exceeding 2^31 to hang the loading proces...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-138150"
+  },
+  {
+   "id": "CVE-2026-138151",
+   "published": "2026-11-28T02:17:34+00:00",
+   "score": 8.2,
+   "severity": "HIGH",
+   "summary": "bgpq4 before 1.17 contains an integer overflow vulnerability in expander.c that allows malicious IRR servers to corrupt heap memory by sending crafted A replies. Attackers controlling the IRR server or tampering with the plaintext TCP connection can announce a ULONG_MAX or -1 length, wrapping the a...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-138151"
+  },
+  {
+   "id": "CVE-2026-138152",
+   "published": "2026-11-28T02:17:34+00:00",
+   "score": 5.3,
+   "severity": "MEDIUM",
+   "summary": "Otter – Page Builder Blocks & Extensions for Gutenberg before 3.2.12 contains a server-side request forgery vulnerability that allows Contributor-level attackers to make the server contact arbitrary hosts via crafted Mailchimp API keys. Attackers can POST to the otter/v1/form/editor REST route with...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-138152"
+  },
+  {
+   "id": "CVE-2026-138117",
+   "published": "2026-11-28T02:17:33+00:00",
+   "score": 8.5,
+   "severity": "HIGH",
+   "summary": "HyperSpy from 1.2.0 before 2.6.0 contains a code execution vulnerability that allows attackers to run Python code by embedding malicious expression strings evaluated with sympy.sympify(). Attackers can craft .hspy or .zspy files with malicious axis, Expression component, or twin function expression...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-138117"
+  },
+  {
+   "id": "CVE-2026-138118",
+   "published": "2026-11-28T02:17:33+00:00",
+   "score": 8.5,
+   "severity": "HIGH",
+   "summary": "HyperSpy from 1.4.0 before 2.6.0 contains an insecure deserialization vulnerability that allows attackers to execute arbitrary Python code by supplying crafted stored-model data in .hspy or .zspy files. Attackers can embed a malicious pickle payload in a component's _class_dump or a 'fn'-flagged _w...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-138118"
+  },
+  {
+   "id": "CVE-2026-138119",
+   "published": "2026-11-28T02:17:33+00:00",
+   "score": 8.7,
+   "severity": "HIGH",
+   "summary": "Kestra before 1.3.36 contains a reflected cross-site scripting vulnerability that allows unauthenticated attackers to execute JavaScript by injecting HTML into the executions page sort parameter. Attackers can lure logged-in users to a crafted link whose invalid sort value is rendered unsanitized i...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-138119"
+  },
+  {
+   "id": "CVE-2026-138120",
+   "published": "2026-11-28T02:17:33+00:00",
+   "score": 6.9,
+   "severity": "MEDIUM",
+   "summary": "Kestra 1.3.24 before 2.0.0 contains a timing side-channel vulnerability in BasicAuthService.isAuthenticated() that allows unauthenticated attackers to enumerate the administrator username. Attackers can send Basic-auth requests with candidate usernames to protected API endpoints and detect slower b...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-138120"
+  },
+  {
+   "id": "CVE-2026-138121",
+   "published": "2026-11-28T02:17:33+00:00",
+   "score": 7.5,
+   "severity": "HIGH",
+   "summary": "Kestra 1.3.24 before 1.3.41 contains an insufficient credential expiration vulnerability that allows holders of a revoked administrator password to keep authenticating on peer webserver nodes through BasicAuthService's process-local verified-token cache. Attackers whose token remains cached on a pe...",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-138121"
+  },
+  {
+   "id": "CVE-2026-107951",
+   "published": "2026-11-28T01:16:40+00:00",
+   "score": 3.1,
+   "severity": "LOW",
+   "summary": "Improper Content Security Policy (CSP) configuration in the BigFix MCM WebUI allowed the data: URI scheme as a source in the img-src directive of the CSP header. This potentially weakens the application's defense-in-depth security mechanism.",
+   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-107951"
+  },
+  {
    "id": "CVE-2026-107967",
    "published": "2026-11-27T23:16:36+00:00",
    "score": 0.9,
@@ -1929,222 +2145,6 @@
    "severity": "MEDIUM",
    "summary": "Missing Authorization vulnerability in Cozy Vision Technologies Pvt. Ltd. SMS Alert Order Notifications sms-alert allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects SMS Alert Order Notifications: from n/a through 4.0.3.",
    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-134961"
-  },
-  {
-   "id": "CVE-2026-134963",
-   "published": "2026-11-27T13:17:23+00:00",
-   "score": 9.9,
-   "severity": "CRITICAL",
-   "summary": "Improper Control of Generation of Code ('Code Injection') vulnerability in Webdeclic WPMasterToolKit wpmastertoolkit allows Code Injection.This issue affects WPMasterToolKit: from n/a through 2.26.1.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-134963"
-  },
-  {
-   "id": "CVE-2026-135016",
-   "published": "2026-11-27T13:17:23+00:00",
-   "score": 6.5,
-   "severity": "MEDIUM",
-   "summary": "Missing Authorization vulnerability in Ricardo Martins PagBank / PagSeguro Connect pagbank-connect allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects PagBank / PagSeguro Connect: from n/a through 5.1.9.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135016"
-  },
-  {
-   "id": "CVE-2026-135911",
-   "published": "2026-11-27T13:17:23+00:00",
-   "score": 7.1,
-   "severity": "HIGH",
-   "summary": "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in PI Web Solution Product Enquiry for WooCommerce enquiry-quotation-for-woocommerce allows Stored XSS.This issue affects Product Enquiry for WooCommerce: from n/a through 2.2.34.64.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135911"
-  },
-  {
-   "id": "CVE-2026-135930",
-   "published": "2026-11-27T13:17:23+00:00",
-   "score": 9.1,
-   "severity": "CRITICAL",
-   "summary": "Authentication Bypass by Spoofing vulnerability in TMS Amelia ameliabooking allows Identity Spoofing.This issue affects Amelia: from n/a through 2.4.14.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135930"
-  },
-  {
-   "id": "CVE-2026-135933",
-   "published": "2026-11-27T13:17:23+00:00",
-   "score": 9.8,
-   "severity": "CRITICAL",
-   "summary": "Incorrect Privilege Assignment vulnerability in Tobias WebinarIgnition webinar-ignition allows Privilege Escalation.This issue affects WebinarIgnition: from n/a through 4.28.1.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135933"
-  },
-  {
-   "id": "CVE-2026-123756",
-   "published": "2026-11-27T13:17:22+00:00",
-   "score": 4.3,
-   "severity": "MEDIUM",
-   "summary": "An attacker can cause a denial of service by sending crafted HTTP queries to the internal webserver. The webserver is not enabled by default and is protected by an ACL.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123756"
-  },
-  {
-   "id": "CVE-2026-125633",
-   "published": "2026-11-27T13:17:22+00:00",
-   "score": 6.5,
-   "severity": "MEDIUM",
-   "summary": "A **Type Confusion** has been found in the dns_to_dnsp_convert() function in dnsdata.c of the DNS server RPC module in the **Samba** package. The function copies an HINFO record from the management request into the stored DNS record without converting the request name into the two strings the store...",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-125633"
-  },
-  {
-   "id": "CVE-2026-133720",
-   "published": "2026-11-27T13:17:22+00:00",
-   "score": 7.1,
-   "severity": "HIGH",
-   "summary": "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in WP Socio WP Telegram Widget and Join Link wptelegram-widget allows Reflected XSS.This issue affects WP Telegram Widget and Join Link: from n/a through 2.2.16.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-133720"
-  },
-  {
-   "id": "CVE-2026-134717",
-   "published": "2026-11-27T13:17:22+00:00",
-   "score": 7.1,
-   "severity": "HIGH",
-   "summary": "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in wp.insider Simple Membership simple-membership allows Stored XSS.This issue affects Simple Membership: from n/a through 4.8.9.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-134717"
-  },
-  {
-   "id": "CVE-2026-134939",
-   "published": "2026-11-27T13:17:22+00:00",
-   "score": 7.1,
-   "severity": "HIGH",
-   "summary": "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in David Lingren Media LIbrary Assistant media-library-assistant allows Reflected XSS.This issue affects Media LIbrary Assistant: from n/a through 3.43.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-134939"
-  },
-  {
-   "id": "CVE-2026-106169",
-   "published": "2026-11-27T13:17:21+00:00",
-   "score": 9.4,
-   "severity": "CRITICAL",
-   "summary": "A Deserialization of Untrusted Data vulnerability in the eventbus execution in Google Cloud Application Integration versions prior to 2026-09-22 on Google Cloud Platform allows an authenticated attacker to achieve remote code execution using a crafted serialized Java object. This vulnerability was...",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-106169"
-  },
-  {
-   "id": "CVE-2026-107189",
-   "published": "2026-11-27T13:17:21+00:00",
-   "score": 4.6,
-   "severity": "MEDIUM",
-   "summary": "GNU m4 contains an integer overflow vulnerability in reload_frozen_state() in src/freeze.c. When processing a malicious frozen-state file via the -R option, an attacker can trigger an oversized allocation request that crashes the program, causing denial of service. This issue was fixed in commit 69...",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-107189"
-  },
-  {
-   "id": "CVE-2026-115743",
-   "published": "2026-11-27T13:17:21+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Rejected reason: Not a separate vulnerability: dependency update. See GHSA-6q48-6c7w-9gw2.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115743"
-  },
-  {
-   "id": "CVE-2026-123755",
-   "published": "2026-11-27T13:17:21+00:00",
-   "score": 4.3,
-   "severity": "MEDIUM",
-   "summary": "An attacker allowed to send AXFR or IXFR queries can cause an outgoing TCP connection to the backend to be stuck, causing a denial of service to other clients trying to reuse the same outgoing connection.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123755"
-  },
-  {
-   "id": "CVE-2026-135951",
-   "published": "2026-11-27T12:17:06+00:00",
-   "score": 7.1,
-   "severity": "HIGH",
-   "summary": "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Designinvento DirectoryPress directorypress allows Reflected XSS.This issue affects DirectoryPress: from n/a through 3.6.27.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135951"
-  },
-  {
-   "id": "CVE-2026-135958",
-   "published": "2026-11-27T12:17:06+00:00",
-   "score": 7.1,
-   "severity": "HIGH",
-   "summary": "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in jgwhite33 WP Review Slider wp-facebook-reviews allows Stored XSS.This issue affects WP Review Slider: from n/a through 15.5.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135958"
-  },
-  {
-   "id": "CVE-2026-135960",
-   "published": "2026-11-27T12:17:06+00:00",
-   "score": 6.5,
-   "severity": "MEDIUM",
-   "summary": "Insertion of Sensitive Information into Externally-Accessible File or Directory vulnerability in PayTR Ödeme ve Elektronik Para Kuruluşu A.Ş. PayTR Sanal POS WooCommerce – iFrame API paytr-sanal-pos-woocommerce-iframe-api allows Retrieve Embedded Sensitive Data.This issue affects PayTR Sanal POS Wo...",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135960"
-  },
-  {
-   "id": "CVE-2026-135961",
-   "published": "2026-11-27T12:17:06+00:00",
-   "score": 7.1,
-   "severity": "HIGH",
-   "summary": "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Nks Continuous Image Carousel With Lightbox continuous-image-carousel-with-lightbox allows Stored XSS.This issue affects Continuous Image Carousel With Lightbox: from n/a through 2.0.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135961"
-  },
-  {
-   "id": "CVE-2026-137743",
-   "published": "2026-11-27T12:17:06+00:00",
-   "score": 5.7,
-   "severity": "MEDIUM",
-   "summary": "A weakness has been identified in Free5GC up to 4.2.3. Affected by this vulnerability is an unknown functionality of the file internal/sbi/processor/subs_to_notify_collection.go of the component UDR. Executing a manipulation can lead to race condition. It is possible to launch the attack remotely....",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-137743"
-  },
-  {
-   "id": "CVE-2026-123706",
-   "published": "2026-11-27T12:17:05+00:00",
-   "score": 1.7,
-   "severity": "LOW",
-   "summary": "An out-of-bounds write vulnerability in the Qt VectorImage component of the Qt Quick module.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123706"
-  },
-  {
-   "id": "CVE-2026-129052",
-   "published": "2026-11-27T12:17:05+00:00",
-   "score": 7.1,
-   "severity": "HIGH",
-   "summary": "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Greg Winiarski WPAdverts wpadverts allows Stored XSS.This issue affects WPAdverts: from n/a through 2.3.5.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-129052"
-  },
-  {
-   "id": "CVE-2026-135941",
-   "published": "2026-11-27T12:17:05+00:00",
-   "score": 7.1,
-   "severity": "HIGH",
-   "summary": "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Booking Activities Team Booking Activities booking-activities allows Reflected XSS.This issue affects Booking Activities: from n/a through 1.19.5.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135941"
-  },
-  {
-   "id": "CVE-2026-135942",
-   "published": "2026-11-27T12:17:05+00:00",
-   "score": 7.1,
-   "severity": "HIGH",
-   "summary": "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Themeum Tutor LMS tutor allows Reflected XSS.This issue affects Tutor LMS: from n/a through 4.2.1.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135942"
-  },
-  {
-   "id": "CVE-2026-135949",
-   "published": "2026-11-27T12:17:05+00:00",
-   "score": 7.1,
-   "severity": "HIGH",
-   "summary": "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Themeisle MPG multiple-pages-generator-by-porthas allows Reflected XSS.This issue affects MPG: from n/a through 4.2.6.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135949"
-  },
-  {
-   "id": "CVE-2025-41740",
-   "published": "2026-11-27T12:17:04+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2025-41740"
-  },
-  {
-   "id": "CVE-2026-116397",
-   "published": "2026-11-27T12:17:04+00:00",
-   "score": 4.3,
-   "severity": "MEDIUM",
-   "summary": "Missing Authorization vulnerability in WPTasty Business Directory business-directory-plugin allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects Business Directory: from n/a through 6.4.29.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-116397"
-  },
-  {
-   "id": "CVE-2025-0102",
-   "published": "2026-11-27T12:17:03+00:00",
-   "score": null,
-   "severity": null,
-   "summary": "Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.",
-   "link": "https://nvd.nist.gov/vuln/detail/CVE-2025-0102"
   }
  ],
  "kev": [
@@ -2551,6 +2551,27 @@
  ],
  "ransomware": [
   {
+   "victim": "Thomas More University of Applied Sciences",
+   "group": "qilin",
+   "country": "BE",
+   "sector": "Education",
+   "date": "2026-11-28T03:44:02+00:00"
+  },
+  {
+   "victim": "Samlut and Company, P.A.",
+   "group": "incransom",
+   "country": "US",
+   "sector": "Professional Services",
+   "date": "2026-11-27T23:00:19+00:00"
+  },
+  {
+   "victim": "Cinelandia S.p.A",
+   "group": "incransom",
+   "country": "IT",
+   "sector": "Hospitality",
+   "date": "2026-11-27T21:46:09+00:00"
+  },
+  {
    "victim": "Brit Ltd / Brit Insurance (britinsurance.com)",
    "group": "incransom",
    "country": "GB",
@@ -2948,30 +2969,9 @@
    "country": "US",
    "sector": "Professional Services",
    "date": "2026-11-25T20:33:22+00:00"
-  },
-  {
-   "victim": "York Engineering",
-   "group": "rhysida",
-   "country": "",
-   "sector": "Manufacturing",
-   "date": "2026-11-25T19:54:53+00:00"
-  },
-  {
-   "victim": "HydroCision",
-   "group": "anubis",
-   "country": "US",
-   "sector": "Healthcare",
-   "date": "2026-11-25T18:31:40+00:00"
-  },
-  {
-   "victim": "liverpool.ac.uk",
-   "group": "Scarlettgroup",
-   "country": "GB",
-   "sector": "Education",
-   "date": "2026-11-25T18:30:00+00:00"
   }
  ],
- "cve_total_48h": 881,
+ "cve_total_48h": 802,
  "errors": {},
- "updated": "2026-11-27T23:29:54+00:00"
+ "updated": "2026-11-28T07:56:11+00:00"
 }
